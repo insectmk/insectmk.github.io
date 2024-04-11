@@ -11,6 +11,33 @@
   </url>
   
   <url>
+    <loc>https://insectmk.cn/contact/messageboard/index.html</loc>
+    
+    <lastmod>2024-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://insectmk.cn/contact/link/index.html</loc>
+    
+    <lastmod>2024-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://insectmk.cn/categories/index.html</loc>
+    
+    <lastmod>2024-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://insectmk.cn/posts/2fa6999c/</loc>
     
     <lastmod>2024-04-10</lastmod>
@@ -524,15 +551,6 @@
   </url>
   
   <url>
-    <loc>https://insectmk.cn/contact/link/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://insectmk.cn/posts/9b7de2ae/</loc>
     
     <lastmod>2023-07-19</lastmod>
@@ -848,25 +866,7 @@
   </url>
   
   <url>
-    <loc>https://insectmk.cn/contact/messageboard/index.html</loc>
-    
-    <lastmod>2023-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://insectmk.cn/tags/index.html</loc>
-    
-    <lastmod>2023-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://insectmk.cn/categories/index.html</loc>
     
     <lastmod>2023-06-10</lastmod>
     
