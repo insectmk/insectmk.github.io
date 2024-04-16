@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3795172 */
-  src: url('//at.alicdn.com/t/c/font_3795172_eu6jofqkdlh.woff2?t=1712904515516') format('woff2'),
-       url('//at.alicdn.com/t/c/font_3795172_eu6jofqkdlh.woff?t=1712904515516') format('woff'),
-       url('//at.alicdn.com/t/c/font_3795172_eu6jofqkdlh.ttf?t=1712904515516') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_3795172_3xxhvh0b6v4.woff2?t=1713238079672') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3795172_3xxhvh0b6v4.woff?t=1713238079672') format('woff'),
+       url('//at.alicdn.com/t/c/font_3795172_3xxhvh0b6v4.ttf?t=1713238079672') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,86 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-musicfill:before {
+  content: "\e795";
+}
+
+.icon-note:before {
+  content: "\e64f";
+}
+
+.icon-bars:before {
+  content: "\e601";
+}
+
+.icon-tags:before {
+  content: "\e715";
+}
+
+.icon-folder-open:before {
+  content: "\e696";
+}
+
+.icon-gamepad:before {
+  content: "\e69d";
+}
+
+.icon-clipboard:before {
+  content: "\e602";
+}
+
+.icon-archive:before {
+  content: "\e673";
+}
+
+.icon-comments:before {
+  content: "\e600";
+}
+
+.icon-desktop:before {
+  content: "\e603";
+}
+
+.icon-flask:before {
+  content: "\e604";
+}
+
+.icon-hand-peace:before {
+  content: "\e605";
+}
+
+.icon-heartbeat:before {
+  content: "\e606";
+}
+
+.icon-home:before {
+  content: "\e608";
+}
+
+.icon-id-card:before {
+  content: "\e609";
+}
+
+.icon-images:before {
+  content: "\e60a";
+}
+
+.icon-link:before {
+  content: "\e60b";
+}
+
+.icon-paper-plane:before {
+  content: "\e60e";
+}
+
+.icon-film_fill:before {
+  content: "\e70f";
+}
+
+.icon-book-open:before {
+  content: "\e8a3";
 }
 
 .icon-youxiang-:before {
@@ -32,3 +112,7 @@
   content: "\e60c";
   color: #D90315;
 }
+
+
+
+
