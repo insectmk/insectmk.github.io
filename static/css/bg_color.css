@@ -1,3 +1,18 @@
-/* build time:Mon Apr 15 2024 23:03:29 GMT+0800 (中国标准时间)*/
-[data-theme=light] body{background:linear-gradient(-45deg,#fbede8,#b4cef7,#b7f9b8,#f6ced8);background-size:400% 400%;height:100vh;background-attachment:fixed}[data-theme=dark] body{background:linear-gradient(-45deg,#6f1b01,#113878,#016801,#540818);background-size:400% 400%;height:100vh;background-attachment:fixed}
-/* rebuild by neat */
+/* 渐变背景色 */
+[data-theme="light"] 
+body {
+  background: linear-gradient(-45deg, #fbede8, #b4cef7, #b7f9b8, #f6ced8);
+  background-size: 400% 400%;
+
+  height: 100vh;
+  background-attachment:fixed;
+}    
+
+[data-theme="dark"]
+body {
+  background: linear-gradient(-45deg, #6f1b01, #113878, #016801, #540818);
+  background-size: 400% 400%;
+
+  height: 100vh;
+  background-attachment:fixed;
+}  
