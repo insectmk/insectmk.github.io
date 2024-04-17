@@ -4,6 +4,122 @@
   
     
     <entry>
+      <title>Butterfly主题的CDN配置</title>
+      <link href="/posts/dff3be82/"/>
+      <url>/posts/dff3be82/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Butterfly主题的CDN默认使用的是<code>jsdelivr</code>，有一些JS和CSS就是由他提供的。</p><p>但是<code>jsdelivr</code>很玄学，跟Github一样，时常访问不了，就需要重新配置一下CDN。</p><h2 id="不使用CDN"><a href="#不使用CDN" class="headerlink" title="不使用CDN"></a>不使用CDN</h2><p>使用新版Butterfly的用户才可以切换成本地模式（不知道要多新）</p><p>在<strong>博客根目录</strong>下执行<code>npm install hexo-butterfly-extjs --save</code>安装依赖</p><p>修改<code>_config.butterfly.yml</code></p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">CDN:</span></span><br><span class="line">  <span class="attr">third_party_provider:</span> <span class="string">local</span></span><br></pre></td></tr></table></figure><p>Hexo三连</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><h2 id="使用CDN"><a href="#使用CDN" class="headerlink" title="使用CDN"></a>使用CDN</h2><h3 id="七牛云"><a href="#七牛云" class="headerlink" title="七牛云"></a>七牛云</h3><p>使用七牛云的CDN，修改<code>_config.butterfly.yml</code></p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">CDN:</span></span><br><span class="line">  <span class="attr">third_party_provider:</span> <span class="string">custom</span></span><br><span class="line">  <span class="attr">custom_format:</span> <span class="string">https://cdn.staticfile.org/$&#123;cdnjs_name&#125;/$&#123;version&#125;/$&#123;min_cdnjs_file&#125;</span></span><br></pre></td></tr></table></figure><h2 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h2><p><a href="https://blog.zhheo.com/p/790087d9.html">Butterfly CDN链接更改指南，替换jsdelivr提升访问速度</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序配置 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人博客 </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>更新Butterfly博客</title>
+      <link href="/posts/d0bcb05e/"/>
+      <url>/posts/d0bcb05e/</url>
+      
+        <content type="html"><![CDATA[<h2 id="稳妥更新"><a href="#稳妥更新" class="headerlink" title="稳妥更新"></a>稳妥更新</h2><p>在<strong>博客根目录</strong>下执行<code>npm outdated</code>，查看所有过时的版本，我的过时信息如下：</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">Package               Current   Wanted   Latest  Location                           Depended by</span><br><span class="line">hexo                    6.3.0    6.3.0    7.1.1  node<span class="built_in">_</span>modules/hexo                  hexo-gitee-blog-management</span><br><span class="line">hexo-deployer-git       3.0.0    3.0.0    4.0.0  node<span class="built_in">_</span>modules/hexo-deployer-git     hexo-gitee-blog-management</span><br><span class="line">hexo-renderer-marked    6.0.0    6.3.0    6.3.0  node<span class="built_in">_</span>modules/hexo-renderer-marked  hexo-gitee-blog-management</span><br><span class="line">hexo-theme-landscape    0.0.3    0.0.3    1.0.0  node<span class="built_in">_</span>modules/hexo-theme-landscape  hexo-gitee-blog-management</span><br><span class="line">yarn                  1.22.19  1.22.22  1.22.22  node<span class="built_in">_</span>modules/yarn                  hexo-gitee-blog-management</span><br></pre></td></tr></table></figure><p>执行<code>npm update</code>可更新所有过时的版本</p><h2 id="风险最新"><a href="#风险最新" class="headerlink" title="风险最新"></a>风险最新</h2><p>以下指令均在<strong>博客根目录</strong>下操作</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 查看当前版本，判断是否需要升级</span></span><br><span class="line">hexo version</span><br><span class="line"><span class="comment"># 全局升级hexo-cli</span></span><br><span class="line">npm i hexo-cli -g</span><br><span class="line"><span class="comment"># 再次查看版本，看hexo-cli是否升级成功</span></span><br><span class="line">hexo version</span><br><span class="line"><span class="comment"># 安装npm-check，若已安装可以跳过</span></span><br><span class="line">npm install -g npm-check</span><br><span class="line"><span class="comment"># 检查系统插件是否需要升级</span></span><br><span class="line">npm-check</span><br><span class="line"><span class="comment"># 安装npm-upgrade，若已安装可以跳过</span></span><br><span class="line">npm install -g npm-upgrade</span><br><span class="line"><span class="comment"># 更新package.json</span></span><br><span class="line">npm-upgrade</span><br><span class="line"><span class="comment"># 更新全局插件</span></span><br><span class="line">npm update -g</span><br><span class="line"><span class="comment"># 更新系统插件</span></span><br><span class="line">npm update --save</span><br><span class="line"><span class="comment"># 再次查看版本，判断是否升级成功</span></span><br><span class="line">hexo version</span><br></pre></td></tr></table></figure><p>最终版本信息如下：</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line">INFO  Validating config</span><br><span class="line">INFO  </span><br><span class="line">===================================================================</span><br><span class="line">   <span class="params">#####</span>  <span class="params">#</span>    <span class="params">#</span> <span class="params">#####</span> <span class="params">#####</span> <span class="params">######</span> <span class="params">#####</span>  <span class="params">######</span> <span class="params">#</span>      <span class="params">#</span>   <span class="params">#</span></span><br><span class="line">   <span class="params">#</span>    <span class="params">#</span> <span class="params">#</span>    <span class="params">#</span>   <span class="params">#</span>     <span class="params">#</span>   <span class="params">#</span>      <span class="params">#</span>    <span class="params">#</span> <span class="params">#</span>      <span class="params">#</span>       <span class="params">#</span> <span class="params">#</span></span><br><span class="line">   <span class="params">#####</span>  <span class="params">#</span>    <span class="params">#</span>   <span class="params">#</span>     <span class="params">#</span>   <span class="params">#####</span>  <span class="params">#</span>    <span class="params">#</span> <span class="params">#####</span>  <span class="params">#</span>        <span class="params">#</span></span><br><span class="line">   <span class="params">#</span>    <span class="params">#</span> <span class="params">#</span>    <span class="params">#</span>   <span class="params">#</span>     <span class="params">#</span>   <span class="params">#</span>      <span class="params">#####</span>  <span class="params">#</span>      <span class="params">#</span>        <span class="params">#</span></span><br><span class="line">   <span class="params">#</span>    <span class="params">#</span> <span class="params">#</span>    <span class="params">#</span>   <span class="params">#</span>     <span class="params">#</span>   <span class="params">#</span>      <span class="params">#</span>   <span class="params">#</span>  <span class="params">#</span>      <span class="params">#</span>        <span class="params">#</span></span><br><span class="line">   <span class="params">#####</span>   <span class="params">####</span>    <span class="params">#</span>     <span class="params">#</span>   <span class="params">######</span> <span class="params">#</span>    <span class="params">#</span> <span class="params">#</span>      <span class="params">######</span>   <span class="params">#</span></span><br><span class="line">                         4.13.0</span><br><span class="line">===================================================================</span><br><span class="line">hexo: 7.1.1</span><br><span class="line">hexo-cli: 4.3.1</span><br><span class="line">os: win32 10.0.22631</span><br><span class="line">node: 20.11.0</span><br><span class="line">acorn: 8.11.2</span><br><span class="line">ada: 2.7.4</span><br><span class="line">ares: 1.20.1</span><br><span class="line">base64: 0.5.1</span><br><span class="line">brotli: 1.0.9</span><br><span class="line">cjs<span class="built_in">_</span>module<span class="built_in">_</span>lexer: 1.2.2</span><br><span class="line">cldr: 43.1</span><br><span class="line">icu: 73.2</span><br><span class="line">llhttp: 8.1.1</span><br><span class="line">modules: 115</span><br><span class="line">napi: 9</span><br><span class="line">nghttp2: 1.58.0</span><br><span class="line">nghttp3: 0.7.0</span><br><span class="line">ngtcp2: 0.8.1</span><br><span class="line">openssl: 3.0.12+quic</span><br><span class="line">simdutf: 4.0.4</span><br><span class="line">tz: 2023c</span><br><span class="line">undici: 5.27.2</span><br><span class="line">unicode: 15.0</span><br><span class="line">uv: 1.46.0</span><br><span class="line">uvwasi: 0.0.19</span><br><span class="line">v8: 11.3.244.8-node.17</span><br><span class="line">zlib: 1.2.13.1-motley-5daffc7</span><br></pre></td></tr></table></figure><h2 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h2><p><a href="https://zhuanlan.zhihu.com/p/163830894">Hexo 和Next主题升级</a></p><p><a href="https://novnan.github.io/Hexo/update_hexo/">Hexo版本升级指南</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序配置 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人博客 </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用RWKV-Runner进行模型训练（三）开始训练</title>
+      <link href="/posts/27ad509b/"/>
+      <url>/posts/27ad509b/</url>
+      
+        <content type="html"><![CDATA[<h2 id="模型下载"><a href="#模型下载" class="headerlink" title="模型下载"></a>模型下载</h2><p>数据准备好后还需要选择合适的基底模型，推荐选择<code>RWKV-4-World-CHNtuned-1.5B-v1-20230620-ctx4096.pth</code>，该模型不仅显存占用低还具有中文增强的效果。</p><p>到<a href="https://huggingface.co/BlinkDL/rwkv-4-world/tree/main">Hugging Face</a>下载适合的模型。</p><h2 id="训练"><a href="#训练" class="headerlink" title="训练"></a>训练</h2><p>使用RWKV-Runner集成的LoRA微调功能对基底模型进行微调，当出现图形化Loss曲线时，意味着训练已正式开始。</p><p>训练过程中会在LoRA模型一栏，出现多个训练完成的LoRA权重。</p><p>选择一个权重，并点击合并模型，将会生成一个直接可用的完整模型，在配置页面选择训练好的模型，即可正常启动，并暴露对话接口。</p><h2 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h2><p><a href="https://zhuanlan.zhihu.com/p/629809101">RWKV语言模型从入门到放弃，保姆级Training、Fine-tuning、Lora入坑教程</a></p><p><a href="https://blog.csdn.net/qq_15821487/article/details/131697336">RWKV系列2-RWKV-LM</a></p><p><a href="https://zhuanlan.zhihu.com/p/638326262">RWKV的微调教学，以及RWKV World：支持世界所有语言的生成+对话+任务+代码</a></p><p><a href="https://zhuanlan.zhihu.com/p/634873585?utm_psn=1754116495217442816">大模型训练数据集介绍</a></p><p><strong>RWKV-Runner LoRA微调功能使用说明</strong></p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=575386901&bvid=BV1Qz4y1M7jz&cid=1253288804&p=1&autoplay=0"         scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"        style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">    </iframe></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 毕业设计 </tag>
+            
+            <tag> RWKV </tag>
+            
+            <tag> 语言模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用RWKV-Runner进行模型训练（二）数据集准备</title>
+      <link href="/posts/38c5674d/"/>
+      <url>/posts/38c5674d/</url>
+      
+        <content type="html"><![CDATA[<h2 id="数据格式"><a href="#数据格式" class="headerlink" title="数据格式"></a>数据格式</h2><p>RWKV-Runner的微调功能是基于<a href="https://github.com/Blealtan/RWKV-LM-LoRA">RWKV-LM-LoRA</a></p><p>需要将数据集转化为RWKV-LoRA支持的格式，目前支持的格式如下：</p><ol><li><p>单论问答（JSONL格式）：{“text”: “Q: 问题\n\nA: 答案”}</p></li><li><p>多轮对话（JSONL格式）：{“text”: “Q: 问一\n\nA: 答一\n\nQ: 问二\n\nA: 答二”}</p></li><li><p>单轮问答（TEXT格式）：</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Question: </span><br><span class="line"></span><br><span class="line">Answer:</span><br></pre></td></tr></table></figure></li><li><p>材料问答（TEXT格式）</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">Instruction: </span><br><span class="line"></span><br><span class="line">Input: </span><br><span class="line"></span><br><span class="line">Response:</span><br></pre></td></tr></table></figure></li><li><p>多轮对话（TEXT格式）</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">User: </span><br><span class="line"></span><br><span class="line">Assistant: </span><br><span class="line"></span><br><span class="line">User: </span><br><span class="line"></span><br><span class="line">Assistant: </span><br></pre></td></tr></table></figure></li></ol><p><strong>需要注意的事项如下：</strong></p><ol><li><p><strong>JSONL格式</strong>必须为单个.jsonl后缀的文件，如有很多训练数据需要在.jsonl文件中另起一行写入，如：</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;&quot;text&quot;: &quot;Q: 问一<span class="keyword">\n</span><span class="keyword">\nA</span>: 答一<span class="keyword">\n</span><span class="keyword">\nQ</span>: 问二<span class="keyword">\n</span><span class="keyword">\nA</span>: 答二&quot;&#125;</span><br><span class="line">&#123;&quot;text&quot;: &quot;Q: 问题<span class="keyword">\n</span><span class="keyword">\nA</span>: 答案&quot;&#125; </span><br><span class="line">&#123;&quot;text&quot;: &quot;Q: 问一<span class="keyword">\n</span><span class="keyword">\nA</span>: 答一<span class="keyword">\n</span><span class="keyword">\nQ</span>: 问二<span class="keyword">\n</span><span class="keyword">\nA</span>: 答二<span class="keyword">\n</span><span class="keyword">\nQ</span>: 问三<span class="keyword">\n</span><span class="keyword">\nA</span>: 答三&quot;&#125;</span><br></pre></td></tr></table></figure></li><li><p><strong>TEXT格式</strong>为多个.txt后缀的文件，RWKV-LoRA转换数据时会读取该文件夹下所有的.txt文件，并将其中的内容作为训练数据。需要注意的是，一个.txt文件只能有一种格式的数据，文件结构如下所示。</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">- dataset</span><br><span class="line">- 数据1.txt</span><br><span class="line">- 数据2.txt</span><br><span class="line">- 数据3.txt</span><br></pre></td></tr></table></figure></li></ol><h2 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h2><p><a href="https://zhuanlan.zhihu.com/p/629809101">RWKV语言模型从入门到放弃，保姆级Training、Fine-tuning、Lora入坑教程</a></p><p><a href="https://blog.csdn.net/qq_15821487/article/details/131697336">RWKV系列2-RWKV-LM</a></p><p><a href="https://zhuanlan.zhihu.com/p/638326262">RWKV的微调教学，以及RWKV World：支持世界所有语言的生成+对话+任务+代码</a></p><p><a href="https://zhuanlan.zhihu.com/p/634873585?utm_psn=1754116495217442816">大模型训练数据集介绍</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 毕业设计 </tag>
+            
+            <tag> RWKV </tag>
+            
+            <tag> 语言模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo博客为Butterfly主题添加Algolia文章搜索功能</title>
       <link href="/posts/90caae33/"/>
       <url>/posts/90caae33/</url>

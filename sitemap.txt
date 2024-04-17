@@ -1,4 +1,8 @@
 https://insectmk.cn/website/log/index.html
+https://insectmk.cn/posts/dff3be82/
+https://insectmk.cn/posts/d0bcb05e/
+https://insectmk.cn/posts/27ad509b/
+https://insectmk.cn/posts/38c5674d/
 https://insectmk.cn/about/index.html
 https://insectmk.cn/posts/3459702e/
 https://insectmk.cn/contact/link/index.html
@@ -213,6 +217,7 @@ https://insectmk.cn/tags/Windows11/
 https://insectmk.cn/tags/WSL/
 https://insectmk.cn/tags/%E5%8D%83%E9%94%8B%E6%95%99%E8%82%B2/
 https://insectmk.cn/tags/%E5%9F%B9%E8%AE%AD/
+https://insectmk.cn/tags/Butterfly/
 https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/
 https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/
 https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/
