@@ -816,4 +816,28 @@ if (typeof ai_option !== "undefined") {
 }
 
 // 生成摘要容器，AI构造代码一定要在chuckle-post-ai.js之后插入
-new ChucklePostAI({ el: '#post>#article-container', key: '958a1022f039890a0d1a', rec_method: 'web', })
+new ChucklePostAI({ 
+  el: '#post>#article-container', 
+  key: '958a1022f039890a0d1a', 
+  rec_method: 'web', 
+  // 界面信息
+  interface: {
+    name: "QX-AI", // AI名称
+    introduce: "我是文章辅助AI: QX-AI，点击下方的按钮，让我生成本文简介、推荐相关文章等。", // 自我介绍
+    version: "TianliGPT", // 右上角GPT版本文字
+    button: ["介绍自己", "推荐相关文章", "生成AI简介", "矩阵穿梭"], // 四个按钮文本
+  },
+  // 摘要黑名单URL关键字
+  eliminate: [
+    // 求生之路日志
+    'e8598403',
+    // 我的世界日志
+    'b4c68f75',
+    // 服务器日志
+    '9e7fad42',
+    // 个人日记
+    '4a07b81b',
+  ],
+  // 是否开启切换简介功能，消耗Key字数
+  summary_toggle: false,
+})
