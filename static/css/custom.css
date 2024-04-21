@@ -1,11 +1,10 @@
 /* 阿里巴巴图标库 */
 @font-face {
-    font-family: "iconfont";
-    /* Project id 3795172 */
-    src: url('//at.alicdn.com/t/c/font_3795172_3xxhvh0b6v4.woff2?t=1713238079672') format('woff2'),
-        url('//at.alicdn.com/t/c/font_3795172_3xxhvh0b6v4.woff?t=1713238079672') format('woff'),
-        url('//at.alicdn.com/t/c/font_3795172_3xxhvh0b6v4.ttf?t=1713238079672') format('truetype');
-}
+    font-family: "iconfont"; /* Project id 3795172 */
+    src: url('//at.alicdn.com/t/c/font_3795172_hjj2ps6eyjd.woff2?t=1713673834028') format('woff2'),
+         url('//at.alicdn.com/t/c/font_3795172_hjj2ps6eyjd.woff?t=1713673834028') format('woff'),
+         url('//at.alicdn.com/t/c/font_3795172_hjj2ps6eyjd.ttf?t=1713673834028') format('truetype');
+  }
 
 .iconfont {
     font-family: "iconfont" !important;
@@ -13,6 +12,11 @@
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-rss:before {
+    content: "\e62b";
+    color: #EE802F;
 }
 
 .icon-musicfill:before {

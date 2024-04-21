@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>InsectMk的个人空间</title>
+  <icon>https://insectmk.cn/icon.png</icon>
+  
+  <link href="https://insectmk.cn/atom.xml" rel="self"/>
+  
+  <link href="https://insectmk.cn/"/>
+  <updated>2024-04-21T03:55:38.000Z</updated>
+  <id>https://insectmk.cn/</id>
+  
+  <author>
+    <name>InsectMk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为Butterfly主题添加RSS订阅</title>
+    <link href="https://insectmk.cn/posts/d1271256/"/>
+    <id>https://insectmk.cn/posts/d1271256/</id>
+    <published>2024-04-21T03:55:38.000Z</published>
+    <updated>2024-04-21T03:55:38.000Z</updated>
+    
+    
+    <summary type="html">为Butterfly主题添加RSS订阅</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
+    
+    <category term="RSS" scheme="https://insectmk.cn/tags/RSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站更新日志（2024-04-19~）</title>
+    <link href="https://insectmk.cn/posts/d7252e66/"/>
+    <id>https://insectmk.cn/posts/d7252e66/</id>
+    <published>2024-04-20T05:49:40.000Z</published>
+    <updated>2024-04-21T05:49:40.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="日志" scheme="https://insectmk.cn/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="网站" scheme="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>部署Hexo博客后台系统Qexo</title>
+    <link href="https://insectmk.cn/posts/637bb1fe/"/>
+    <id>https://insectmk.cn/posts/637bb1fe/</id>
+    <published>2024-04-20T02:04:26.000Z</published>
+    <updated>2024-04-20T02:04:26.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="软件配置" scheme="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
+    
+    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新Butterfly博客</title>
+    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
+    <id>https://insectmk.cn/posts/d0bcb05e/</id>
+    <published>2024-04-17T08:56:07.000Z</published>
+    <updated>2024-04-17T08:56:07.000Z</updated>
+    
+    
+    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
+    
+    
+    
+    <category term="程序配置" scheme="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
+    
+    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Butterfly主题的CDN配置</title>
+    <link href="https://insectmk.cn/posts/dff3be82/"/>
+    <id>https://insectmk.cn/posts/dff3be82/</id>
+    <published>2024-04-17T08:56:07.000Z</published>
+    <updated>2024-04-17T08:56:07.000Z</updated>
+    
+    
+    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
+    
+    
+    
+    <category term="程序配置" scheme="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
+    
+    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用RWKV-Runner进行模型训练（三）开始训练</title>
+    <link href="https://insectmk.cn/posts/27ad509b/"/>
+    <id>https://insectmk.cn/posts/27ad509b/</id>
+    <published>2024-04-17T08:30:25.000Z</published>
+    <updated>2024-04-20T10:34:25.000Z</updated>
+    
+    
+    <summary type="html">开始RWKV微调</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="RWKV" scheme="https://insectmk.cn/tags/RWKV/"/>
+    
+    <category term="语言模型" scheme="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用RWKV-Runner进行模型训练（二）数据集准备</title>
+    <link href="https://insectmk.cn/posts/38c5674d/"/>
+    <id>https://insectmk.cn/posts/38c5674d/</id>
+    <published>2024-04-17T08:29:57.000Z</published>
+    <updated>2024-04-17T08:29:57.000Z</updated>
+    
+    
+    <summary type="html">RWKV微调的数据集准备</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="RWKV" scheme="https://insectmk.cn/tags/RWKV/"/>
+    
+    <category term="语言模型" scheme="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客为Butterfly主题添加Algolia文章搜索功能</title>
+    <link href="https://insectmk.cn/posts/90caae33/"/>
+    <id>https://insectmk.cn/posts/90caae33/</id>
+    <published>2024-04-01T10:50:53.000Z</published>
+    <updated>2024-04-01T10:50:53.000Z</updated>
+    
+    
+    <summary type="html">使用Algolia第三方搜索，减轻博客压力！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
+    
+    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为SpringBoot配置数据校验</title>
+    <link href="https://insectmk.cn/posts/860e033f/"/>
+    <id>https://insectmk.cn/posts/860e033f/</id>
+    <published>2024-03-26T03:17:45.000Z</published>
+    <updated>2024-03-26T03:17:45.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="程序配置" scheme="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="SpringBoot" scheme="https://insectmk.cn/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker搭建记账软件Firefly III</title>
+    <link href="https://insectmk.cn/posts/d1f49f22/"/>
+    <id>https://insectmk.cn/posts/d1f49f22/</id>
+    <published>2024-03-25T09:17:31.000Z</published>
+    <updated>2024-03-25T09:17:31.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="软件配置" scheme="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu安装1Panel面板</title>
+    <link href="https://insectmk.cn/posts/de50e286/"/>
+    <id>https://insectmk.cn/posts/de50e286/</id>
+    <published>2024-03-23T05:51:47.000Z</published>
+    <updated>2024-03-23T05:51:47.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="软件配置" scheme="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="1Panel" scheme="https://insectmk.cn/tags/1Panel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue2-ElmentUI 表单数据验证</title>
+    <link href="https://insectmk.cn/posts/f9f47703/"/>
+    <id>https://insectmk.cn/posts/f9f47703/</id>
+    <published>2024-03-18T10:44:31.000Z</published>
+    <updated>2024-03-18T10:44:31.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="程序配置" scheme="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="Vue2" scheme="https://insectmk.cn/tags/Vue2/"/>
+    
+    <category term="ElementUI" scheme="https://insectmk.cn/tags/ElementUI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用RWKV-Runner进行模型训练（一）环境搭建</title>
+    <link href="https://insectmk.cn/posts/db2811a8/"/>
+    <id>https://insectmk.cn/posts/db2811a8/</id>
+    <published>2024-03-17T11:21:07.000Z</published>
+    <updated>2024-03-17T11:21:07.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="RWKV" scheme="https://insectmk.cn/tags/RWKV/"/>
+    
+    <category term="语言模型" scheme="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在Windows11上安装Ubuntu子系统</title>
+    <link href="https://insectmk.cn/posts/ef616f5d/"/>
+    <id>https://insectmk.cn/posts/ef616f5d/</id>
+    <published>2024-03-17T10:40:01.000Z</published>
+    <updated>2024-03-17T10:40:01.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Ubuntu" scheme="https://insectmk.cn/tags/Ubuntu/"/>
+    
+    <category term="Windows11" scheme="https://insectmk.cn/tags/Windows11/"/>
+    
+    <category term="WSL" scheme="https://insectmk.cn/tags/WSL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu搭建EasyN2N小黄鸭并使用</title>
+    <link href="https://insectmk.cn/posts/be3171d2/"/>
+    <id>https://insectmk.cn/posts/be3171d2/</id>
+    <published>2024-03-12T06:56:31.000Z</published>
+    <updated>2024-03-31T06:56:31.000Z</updated>
+    
+    
+    <summary type="html">非局域网联机方案，强推！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="Ubuntu" scheme="https://insectmk.cn/tags/Ubuntu/"/>
+    
+    <category term="EasyN2N" scheme="https://insectmk.cn/tags/EasyN2N/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决SpringBoot+Vue跨域SessionID不一致的问题</title>
+    <link href="https://insectmk.cn/posts/26fd6596/"/>
+    <id>https://insectmk.cn/posts/26fd6596/</id>
+    <published>2024-03-09T06:36:02.000Z</published>
+    <updated>2024-03-09T06:36:02.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="SpringBoot" scheme="https://insectmk.cn/tags/SpringBoot/"/>
+    
+    <category term="Vue" scheme="https://insectmk.cn/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本机搭建RWKV语言模型（最低只需2G显存）</title>
+    <link href="https://insectmk.cn/posts/33af235c/"/>
+    <id>https://insectmk.cn/posts/33af235c/</id>
+    <published>2024-03-04T01:40:02.000Z</published>
+    <updated>2024-03-04T01:40:02.000Z</updated>
+    
+    
+    <summary type="html">每个人都能轻松本地部署语言模型！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="RWKV" scheme="https://insectmk.cn/tags/RWKV/"/>
+    
+    <category term="语言模型" scheme="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>构建Vuetify项目</title>
+    <link href="https://insectmk.cn/posts/18981397/"/>
+    <id>https://insectmk.cn/posts/18981397/</id>
+    <published>2024-02-26T11:15:05.000Z</published>
+    <updated>2024-02-26T11:15:05.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="程序配置" scheme="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Vuetify" scheme="https://insectmk.cn/tags/Vuetify/"/>
+    
+    <category term="Vue3" scheme="https://insectmk.cn/tags/Vue3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot配置邮件发送</title>
+    <link href="https://insectmk.cn/posts/debbde62/"/>
+    <id>https://insectmk.cn/posts/debbde62/</id>
+    <published>2024-02-26T08:54:53.000Z</published>
+    <updated>2024-02-26T08:54:53.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Java" scheme="https://insectmk.cn/tags/Java/"/>
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="SpringBoot" scheme="https://insectmk.cn/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CS2欢乐时刻</title>
+    <link href="https://insectmk.cn/posts/1b31e328/"/>
+    <id>https://insectmk.cn/posts/1b31e328/</id>
+    <published>2024-02-21T07:56:33.000Z</published>
+    <updated>2024-02-21T07:56:33.000Z</updated>
+    
+    
+    <summary type="html">新建文章</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="CS2" scheme="https://insectmk.cn/tags/CS2/"/>
+    
+    <category term="视频" scheme="https://insectmk.cn/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+</feed>
