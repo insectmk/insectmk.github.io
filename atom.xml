@@ -37,6 +37,8 @@
     
     <category term="RSS" scheme="https://insectmk.cn/tags/RSS/"/>
     
+    <category term="ATOM" scheme="https://insectmk.cn/tags/ATOM/"/>
+    
   </entry>
   
   <entry>
@@ -98,9 +100,9 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
   </entry>
   
@@ -121,9 +123,9 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
   </entry>
   
@@ -314,9 +316,9 @@
     <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="Ubuntu" scheme="https://insectmk.cn/tags/Ubuntu/"/>
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="Windows11" scheme="https://insectmk.cn/tags/Windows11/"/>
     

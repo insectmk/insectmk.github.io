@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>InsectMk的个人空间</title>
+    <link>https://insectmk.cn/</link>
+    
+    <image>
+      <url>https://insectmk.cn/icon.png</url>
+      <title>InsectMk的个人空间</title>
+      <link>https://insectmk.cn/</link>
+    </image>
+    
+    <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>每天都要微笑</description>
+    <pubDate>Sun, 21 Apr 2024 03:55:38 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>为Butterfly主题添加RSS订阅</title>
+      <link>https://insectmk.cn/posts/d1271256/</link>
+      <guid>https://insectmk.cn/posts/d1271256/</guid>
+      <pubDate>Sun, 21 Apr 2024 03:55:38 GMT</pubDate>
+      
+      <description>为Butterfly主题添加RSS订阅</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/RSS/">RSS</category>
+      
+      <category domain="https://insectmk.cn/tags/ATOM/">ATOM</category>
+      
+      
+      <comments>https://insectmk.cn/posts/d1271256/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>网站更新日志（2024-04-19~）</title>
+      <link>https://insectmk.cn/posts/d7252e66/</link>
+      <guid>https://insectmk.cn/posts/d7252e66/</guid>
+      <pubDate>Sat, 20 Apr 2024 05:49:40 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      
+      <comments>https://insectmk.cn/posts/d7252e66/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>部署Hexo博客后台系统Qexo</title>
+      <link>https://insectmk.cn/posts/637bb1fe/</link>
+      <guid>https://insectmk.cn/posts/637bb1fe/</guid>
+      <pubDate>Sat, 20 Apr 2024 02:04:26 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/">软件配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      
+      <comments>https://insectmk.cn/posts/637bb1fe/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Butterfly主题的CDN配置</title>
+      <link>https://insectmk.cn/posts/dff3be82/</link>
+      <guid>https://insectmk.cn/posts/dff3be82/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:56:07 GMT</pubDate>
+      
+      <description>让你的Butterfly博客访问更加迅速</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      
+      <comments>https://insectmk.cn/posts/dff3be82/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>更新Butterfly博客</title>
+      <link>https://insectmk.cn/posts/d0bcb05e/</link>
+      <guid>https://insectmk.cn/posts/d0bcb05e/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:56:07 GMT</pubDate>
+      
+      <description>保持你的Butterfly博客为最新状态！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      
+      <comments>https://insectmk.cn/posts/d0bcb05e/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用RWKV-Runner进行模型训练（三）开始训练</title>
+      <link>https://insectmk.cn/posts/27ad509b/</link>
+      <guid>https://insectmk.cn/posts/27ad509b/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:30:25 GMT</pubDate>
+      
+      <description>开始RWKV微调</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/RWKV/">RWKV</category>
+      
+      <category domain="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/">语言模型</category>
+      
+      
+      <comments>https://insectmk.cn/posts/27ad509b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用RWKV-Runner进行模型训练（二）数据集准备</title>
+      <link>https://insectmk.cn/posts/38c5674d/</link>
+      <guid>https://insectmk.cn/posts/38c5674d/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:29:57 GMT</pubDate>
+      
+      <description>RWKV微调的数据集准备</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/RWKV/">RWKV</category>
+      
+      <category domain="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/">语言模型</category>
+      
+      
+      <comments>https://insectmk.cn/posts/38c5674d/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hexo博客为Butterfly主题添加Algolia文章搜索功能</title>
+      <link>https://insectmk.cn/posts/90caae33/</link>
+      <guid>https://insectmk.cn/posts/90caae33/</guid>
+      <pubDate>Mon, 01 Apr 2024 10:50:53 GMT</pubDate>
+      
+      <description>使用Algolia第三方搜索，减轻博客压力！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      
+      <comments>https://insectmk.cn/posts/90caae33/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>为SpringBoot配置数据校验</title>
+      <link>https://insectmk.cn/posts/860e033f/</link>
+      <guid>https://insectmk.cn/posts/860e033f/</guid>
+      <pubDate>Tue, 26 Mar 2024 03:17:45 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/SpringBoot/">SpringBoot</category>
+      
+      
+      <comments>https://insectmk.cn/posts/860e033f/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Docker搭建记账软件Firefly III</title>
+      <link>https://insectmk.cn/posts/d1f49f22/</link>
+      <guid>https://insectmk.cn/posts/d1f49f22/</guid>
+      <pubDate>Mon, 25 Mar 2024 09:17:31 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/">软件配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      
+      <comments>https://insectmk.cn/posts/d1f49f22/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu安装1Panel面板</title>
+      <link>https://insectmk.cn/posts/de50e286/</link>
+      <guid>https://insectmk.cn/posts/de50e286/</guid>
+      <pubDate>Sat, 23 Mar 2024 05:51:47 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/">软件配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      <category domain="https://insectmk.cn/tags/1Panel/">1Panel</category>
+      
+      
+      <comments>https://insectmk.cn/posts/de50e286/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Vue2-ElmentUI 表单数据验证</title>
+      <link>https://insectmk.cn/posts/f9f47703/</link>
+      <guid>https://insectmk.cn/posts/f9f47703/</guid>
+      <pubDate>Mon, 18 Mar 2024 10:44:31 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Vue2/">Vue2</category>
+      
+      <category domain="https://insectmk.cn/tags/ElementUI/">ElementUI</category>
+      
+      
+      <comments>https://insectmk.cn/posts/f9f47703/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用RWKV-Runner进行模型训练（一）环境搭建</title>
+      <link>https://insectmk.cn/posts/db2811a8/</link>
+      <guid>https://insectmk.cn/posts/db2811a8/</guid>
+      <pubDate>Sun, 17 Mar 2024 11:21:07 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/RWKV/">RWKV</category>
+      
+      <category domain="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/">语言模型</category>
+      
+      
+      <comments>https://insectmk.cn/posts/db2811a8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在Windows11上安装Ubuntu子系统</title>
+      <link>https://insectmk.cn/posts/ef616f5d/</link>
+      <guid>https://insectmk.cn/posts/ef616f5d/</guid>
+      <pubDate>Sun, 17 Mar 2024 10:40:01 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Ubuntu/">Ubuntu</category>
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/Windows11/">Windows11</category>
+      
+      <category domain="https://insectmk.cn/tags/WSL/">WSL</category>
+      
+      
+      <comments>https://insectmk.cn/posts/ef616f5d/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu搭建EasyN2N小黄鸭并使用</title>
+      <link>https://insectmk.cn/posts/be3171d2/</link>
+      <guid>https://insectmk.cn/posts/be3171d2/</guid>
+      <pubDate>Tue, 12 Mar 2024 06:56:31 GMT</pubDate>
+      
+      <description>非局域网联机方案，强推！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      <category domain="https://insectmk.cn/tags/Ubuntu/">Ubuntu</category>
+      
+      <category domain="https://insectmk.cn/tags/EasyN2N/">EasyN2N</category>
+      
+      
+      <comments>https://insectmk.cn/posts/be3171d2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>解决SpringBoot+Vue跨域SessionID不一致的问题</title>
+      <link>https://insectmk.cn/posts/26fd6596/</link>
+      <guid>https://insectmk.cn/posts/26fd6596/</guid>
+      <pubDate>Sat, 09 Mar 2024 06:36:02 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/SpringBoot/">SpringBoot</category>
+      
+      <category domain="https://insectmk.cn/tags/Vue/">Vue</category>
+      
+      
+      <comments>https://insectmk.cn/posts/26fd6596/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>本机搭建RWKV语言模型（最低只需2G显存）</title>
+      <link>https://insectmk.cn/posts/33af235c/</link>
+      <guid>https://insectmk.cn/posts/33af235c/</guid>
+      <pubDate>Mon, 04 Mar 2024 01:40:02 GMT</pubDate>
+      
+      <description>每个人都能轻松本地部署语言模型！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/RWKV/">RWKV</category>
+      
+      <category domain="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/">语言模型</category>
+      
+      
+      <comments>https://insectmk.cn/posts/33af235c/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>构建Vuetify项目</title>
+      <link>https://insectmk.cn/posts/18981397/</link>
+      <guid>https://insectmk.cn/posts/18981397/</guid>
+      <pubDate>Mon, 26 Feb 2024 11:15:05 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/Vuetify/">Vuetify</category>
+      
+      <category domain="https://insectmk.cn/tags/Vue3/">Vue3</category>
+      
+      
+      <comments>https://insectmk.cn/posts/18981397/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>SpringBoot配置邮件发送</title>
+      <link>https://insectmk.cn/posts/debbde62/</link>
+      <guid>https://insectmk.cn/posts/debbde62/</guid>
+      <pubDate>Mon, 26 Feb 2024 08:54:53 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Java/">Java</category>
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/SpringBoot/">SpringBoot</category>
+      
+      
+      <comments>https://insectmk.cn/posts/debbde62/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>CS2欢乐时刻</title>
+      <link>https://insectmk.cn/posts/1b31e328/</link>
+      <guid>https://insectmk.cn/posts/1b31e328/</guid>
+      <pubDate>Wed, 21 Feb 2024 07:56:33 GMT</pubDate>
+      
+      <description>新建文章</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/CS2/">CS2</category>
+      
+      <category domain="https://insectmk.cn/tags/%E8%A7%86%E9%A2%91/">视频</category>
+      
+      
+      <comments>https://insectmk.cn/posts/1b31e328/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

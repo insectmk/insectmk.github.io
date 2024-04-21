@@ -14,6 +14,12 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-rss-atom:before {
+    content: "\e62b";
+    color: #3E2AD1;
+}
+
+
 .icon-rss:before {
     content: "\e62b";
     color: #EE802F;
