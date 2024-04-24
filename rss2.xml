@@ -15,8 +15,35 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Sun, 21 Apr 2024 03:55:38 GMT</pubDate>
+    <pubDate>Wed, 24 Apr 2024 02:09:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Vue2配置Vuex并使用</title>
+      <link>https://insectmk.cn/posts/2121156e/</link>
+      <guid>https://insectmk.cn/posts/2121156e/</guid>
+      <pubDate>Wed, 24 Apr 2024 02:09:22 GMT</pubDate>
+      
+      <description>详细说明了如何在Vue2项目中配置Vuex的使用</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/Vue2/">Vue2</category>
+      
+      <category domain="https://insectmk.cn/tags/Vuex/">Vuex</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <comments>https://insectmk.cn/posts/2121156e/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>为Butterfly主题添加RSS订阅</title>
@@ -92,31 +119,6 @@
     </item>
     
     <item>
-      <title>更新Butterfly博客</title>
-      <link>https://insectmk.cn/posts/d0bcb05e/</link>
-      <guid>https://insectmk.cn/posts/d0bcb05e/</guid>
-      <pubDate>Wed, 17 Apr 2024 08:56:07 GMT</pubDate>
-      
-      <description>保持你的Butterfly博客为最新状态！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
-      
-      <comments>https://insectmk.cn/posts/d0bcb05e/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Butterfly主题的CDN配置</title>
       <link>https://insectmk.cn/posts/dff3be82/</link>
       <guid>https://insectmk.cn/posts/dff3be82/</guid>
@@ -132,12 +134,37 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
       <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
       
       
       <comments>https://insectmk.cn/posts/dff3be82/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>更新Butterfly博客</title>
+      <link>https://insectmk.cn/posts/d0bcb05e/</link>
+      <guid>https://insectmk.cn/posts/d0bcb05e/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:56:07 GMT</pubDate>
+      
+      <description>保持你的Butterfly博客为最新状态！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      
+      <comments>https://insectmk.cn/posts/d0bcb05e/#disqus_thread</comments>
       
     </item>
     
@@ -343,9 +370,9 @@
       <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://insectmk.cn/tags/Ubuntu/">Ubuntu</category>
-      
       <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
+      
+      <category domain="https://insectmk.cn/tags/Ubuntu/">Ubuntu</category>
       
       <category domain="https://insectmk.cn/tags/Windows11/">Windows11</category>
       
@@ -478,29 +505,6 @@
       
       
       <comments>https://insectmk.cn/posts/debbde62/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>CS2欢乐时刻</title>
-      <link>https://insectmk.cn/posts/1b31e328/</link>
-      <guid>https://insectmk.cn/posts/1b31e328/</guid>
-      <pubDate>Wed, 21 Feb 2024 07:56:33 GMT</pubDate>
-      
-      <description>新建文章</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/CS2/">CS2</category>
-      
-      <category domain="https://insectmk.cn/tags/%E8%A7%86%E9%A2%91/">视频</category>
-      
-      
-      <comments>https://insectmk.cn/posts/1b31e328/#disqus_thread</comments>
       
     </item>
     
