@@ -15,8 +15,54 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Wed, 24 Apr 2024 02:09:22 GMT</pubDate>
+    <pubDate>Sat, 04 May 2024 12:19:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Redis学习笔记（一）</title>
+      <link>https://insectmk.cn/posts/a560e78/</link>
+      <guid>https://insectmk.cn/posts/a560e78/</guid>
+      <pubDate>Sat, 04 May 2024 12:19:35 GMT</pubDate>
+      
+      <description>记录下Redis的学习</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Redis/">Redis</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/">学习</category>
+      
+      
+      <comments>https://insectmk.cn/posts/a560e78/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>联想拯救者Y7000P清灰</title>
+      <link>https://insectmk.cn/posts/25cb1d21/</link>
+      <guid>https://insectmk.cn/posts/25cb1d21/</guid>
+      <pubDate>Sat, 04 May 2024 11:21:49 GMT</pubDate>
+      
+      <description>笔记本从买来就没有清过灰，最近明显感觉到笔记本的温度很高，开机使用迅雷下个电影CPU的温度就飙升到了98摄氏度，记录下清灰步骤，方便下次清灰。</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E7%AC%94%E8%AE%B0%E6%9C%AC/">笔记本</category>
+      
+      <category domain="https://insectmk.cn/tags/%E6%B8%85%E7%81%B0/">清灰</category>
+      
+      
+      <comments>https://insectmk.cn/posts/25cb1d21/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Vue2配置Vuex并使用</title>
@@ -455,56 +501,6 @@
       
       
       <comments>https://insectmk.cn/posts/33af235c/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>构建Vuetify项目</title>
-      <link>https://insectmk.cn/posts/18981397/</link>
-      <guid>https://insectmk.cn/posts/18981397/</guid>
-      <pubDate>Mon, 26 Feb 2024 11:15:05 GMT</pubDate>
-      
-      <description>新建文章</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
-      
-      <category domain="https://insectmk.cn/tags/Vuetify/">Vuetify</category>
-      
-      <category domain="https://insectmk.cn/tags/Vue3/">Vue3</category>
-      
-      
-      <comments>https://insectmk.cn/posts/18981397/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>SpringBoot配置邮件发送</title>
-      <link>https://insectmk.cn/posts/debbde62/</link>
-      <guid>https://insectmk.cn/posts/debbde62/</guid>
-      <pubDate>Mon, 26 Feb 2024 08:54:53 GMT</pubDate>
-      
-      <description>新建文章</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Java/">Java</category>
-      
-      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
-      
-      <category domain="https://insectmk.cn/tags/SpringBoot/">SpringBoot</category>
-      
-      
-      <comments>https://insectmk.cn/posts/debbde62/#disqus_thread</comments>
       
     </item>
     
