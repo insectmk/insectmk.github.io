@@ -151,14 +151,14 @@
   </entry>
   
   <entry>
-    <title>更新Butterfly博客</title>
-    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
-    <id>https://insectmk.cn/posts/d0bcb05e/</id>
+    <title>Butterfly主题的CDN配置</title>
+    <link href="https://insectmk.cn/posts/dff3be82/"/>
+    <id>https://insectmk.cn/posts/dff3be82/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
+    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
     
     
     
@@ -174,14 +174,14 @@
   </entry>
   
   <entry>
-    <title>Butterfly主题的CDN配置</title>
-    <link href="https://insectmk.cn/posts/dff3be82/"/>
-    <id>https://insectmk.cn/posts/dff3be82/</id>
+    <title>更新Butterfly博客</title>
+    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
+    <id>https://insectmk.cn/posts/d0bcb05e/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
+    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
     
     
     
@@ -383,9 +383,9 @@
     <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="Ubuntu" scheme="https://insectmk.cn/tags/Ubuntu/"/>
+    
+    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="Windows11" scheme="https://insectmk.cn/tags/Windows11/"/>
     
