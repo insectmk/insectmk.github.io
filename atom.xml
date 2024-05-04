@@ -31,9 +31,9 @@
     <category term="笔记" scheme="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Redis" scheme="https://insectmk.cn/tags/Redis/"/>
-    
     <category term="学习" scheme="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Redis" scheme="https://insectmk.cn/tags/Redis/"/>
     
   </entry>
   
@@ -151,14 +151,14 @@
   </entry>
   
   <entry>
-    <title>Butterfly主题的CDN配置</title>
-    <link href="https://insectmk.cn/posts/dff3be82/"/>
-    <id>https://insectmk.cn/posts/dff3be82/</id>
+    <title>更新Butterfly博客</title>
+    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
+    <id>https://insectmk.cn/posts/d0bcb05e/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
+    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
     
     
     
@@ -174,14 +174,14 @@
   </entry>
   
   <entry>
-    <title>更新Butterfly博客</title>
-    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
-    <id>https://insectmk.cn/posts/d0bcb05e/</id>
+    <title>Butterfly主题的CDN配置</title>
+    <link href="https://insectmk.cn/posts/dff3be82/"/>
+    <id>https://insectmk.cn/posts/dff3be82/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
+    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
     
     
     
