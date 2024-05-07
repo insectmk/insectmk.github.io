@@ -15,8 +15,33 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Sat, 04 May 2024 12:19:35 GMT</pubDate>
+    <pubDate>Tue, 07 May 2024 09:23:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>在1Panel中申请SSL证书</title>
+      <link>https://insectmk.cn/posts/f3cf7d8c/</link>
+      <guid>https://insectmk.cn/posts/f3cf7d8c/</guid>
+      <pubDate>Tue, 07 May 2024 09:23:15 GMT</pubDate>
+      
+      <description>最近insectmk.cn的SSL证书要过期了，又要手动去腾讯云申请免费的SSL证书了。&lt;br/&gt;想到以后一到期就要去手动续费，非常的麻烦，就想利用下1Panel的自动申请证书功能了，并且管理起来还特别方便。</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      <category domain="https://insectmk.cn/tags/1Panel/">1Panel</category>
+      
+      <category domain="https://insectmk.cn/tags/SSL%E8%AF%81%E4%B9%A6/">SSL证书</category>
+      
+      
+      <comments>https://insectmk.cn/posts/f3cf7d8c/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Redis学习笔记（一）</title>
@@ -32,9 +57,9 @@
       <category domain="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
       
       
-      <category domain="https://insectmk.cn/tags/Redis/">Redis</category>
-      
       <category domain="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/">学习</category>
+      
+      <category domain="https://insectmk.cn/tags/Redis/">Redis</category>
       
       
       <comments>https://insectmk.cn/posts/a560e78/#disqus_thread</comments>
@@ -476,31 +501,6 @@
       
       
       <comments>https://insectmk.cn/posts/26fd6596/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>本机搭建RWKV语言模型（最低只需2G显存）</title>
-      <link>https://insectmk.cn/posts/33af235c/</link>
-      <guid>https://insectmk.cn/posts/33af235c/</guid>
-      <pubDate>Mon, 04 Mar 2024 01:40:02 GMT</pubDate>
-      
-      <description>每个人都能轻松本地部署语言模型！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
-      
-      <category domain="https://insectmk.cn/tags/RWKV/">RWKV</category>
-      
-      <category domain="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/">语言模型</category>
-      
-      
-      <comments>https://insectmk.cn/posts/33af235c/#disqus_thread</comments>
       
     </item>
     
