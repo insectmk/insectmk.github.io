@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-05-07T09:23:15.000Z</updated>
+  <updated>2024-05-11T07:22:19.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用uptime-status搭建网站监控页面</title>
+    <link href="https://insectmk.cn/posts/bf075edd/"/>
+    <id>https://insectmk.cn/posts/bf075edd/</id>
+    <published>2024-05-11T07:22:19.000Z</published>
+    <updated>2024-05-11T07:22:19.000Z</updated>
+    
+    
+    <summary type="html">使用uptime-status搭建网站监控页面</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="工具" scheme="https://insectmk.cn/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>在1Panel中申请SSL证书</title>
@@ -136,7 +157,7 @@
     <link href="https://insectmk.cn/posts/d7252e66/"/>
     <id>https://insectmk.cn/posts/d7252e66/</id>
     <published>2024-04-20T05:49:40.000Z</published>
-    <updated>2024-05-07T05:49:40.000Z</updated>
+    <updated>2024-05-11T05:49:40.000Z</updated>
     
     
     <summary type="html">新建文章</summary>
@@ -174,14 +195,14 @@
   </entry>
   
   <entry>
-    <title>更新Butterfly博客</title>
-    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
-    <id>https://insectmk.cn/posts/d0bcb05e/</id>
+    <title>Butterfly主题的CDN配置</title>
+    <link href="https://insectmk.cn/posts/dff3be82/"/>
+    <id>https://insectmk.cn/posts/dff3be82/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
+    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
     
     
     
@@ -197,14 +218,14 @@
   </entry>
   
   <entry>
-    <title>Butterfly主题的CDN配置</title>
-    <link href="https://insectmk.cn/posts/dff3be82/"/>
-    <id>https://insectmk.cn/posts/dff3be82/</id>
+    <title>更新Butterfly博客</title>
+    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
+    <id>https://insectmk.cn/posts/d0bcb05e/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
+    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
     
     
     
@@ -436,29 +457,6 @@
     <category term="Ubuntu" scheme="https://insectmk.cn/tags/Ubuntu/"/>
     
     <category term="EasyN2N" scheme="https://insectmk.cn/tags/EasyN2N/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解决SpringBoot+Vue跨域SessionID不一致的问题</title>
-    <link href="https://insectmk.cn/posts/26fd6596/"/>
-    <id>https://insectmk.cn/posts/26fd6596/</id>
-    <published>2024-03-09T06:36:02.000Z</published>
-    <updated>2024-03-09T06:36:02.000Z</updated>
-    
-    
-    <summary type="html">新建文章</summary>
-    
-    
-    
-    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
-    
-    <category term="SpringBoot" scheme="https://insectmk.cn/tags/SpringBoot/"/>
-    
-    <category term="Vue" scheme="https://insectmk.cn/tags/Vue/"/>
     
   </entry>
   
