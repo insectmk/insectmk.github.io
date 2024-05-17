@@ -816,10 +816,10 @@ if (typeof ai_option !== "undefined") {
 }
 
 // 生成摘要容器，AI构造代码一定要在chuckle-post-ai.js之后插入
-new ChucklePostAI({ 
-  el: '#post>#article-container', 
-  key: '958a1022f039890a0d1a', 
-  rec_method: 'web', 
+new ChucklePostAI({
+  el: '#post>#article-container',
+  key: '958a1022f039890a0d1a',
+  rec_method: 'web',
   // 界面信息
   interface: {
     name: "QX-AI", // AI名称
@@ -831,6 +831,7 @@ new ChucklePostAI({
   eliminate: [
     // 求生之路日志
     'e8598403',
+    'a15ff462',
     // 我的世界日志
     'b4c68f75',
     // 服务器日志

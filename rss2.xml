@@ -15,8 +15,29 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Sat, 11 May 2024 07:22:19 GMT</pubDate>
+    <pubDate>Fri, 17 May 2024 01:18:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>求生之路2服务器日志（2024-05-17~）</title>
+      <link>https://insectmk.cn/posts/a15ff462/</link>
+      <guid>https://insectmk.cn/posts/a15ff462/</guid>
+      <pubDate>Fri, 17 May 2024 01:18:08 GMT</pubDate>
+      
+      <description>求生之路2服务器日志</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      <category domain="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/">求生之路2</category>
+      
+      
+    </item>
     
     <item>
       <title>使用uptime-status搭建网站监控页面</title>
@@ -184,8 +205,6 @@
       
       <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
       
-      
-      <comments>https://insectmk.cn/posts/d7252e66/#disqus_thread</comments>
       
     </item>
     
@@ -474,31 +493,6 @@
       
       
       <comments>https://insectmk.cn/posts/ef616f5d/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Ubuntu搭建EasyN2N小黄鸭并使用</title>
-      <link>https://insectmk.cn/posts/be3171d2/</link>
-      <guid>https://insectmk.cn/posts/be3171d2/</guid>
-      <pubDate>Tue, 12 Mar 2024 06:56:31 GMT</pubDate>
-      
-      <description>非局域网联机方案，强推！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
-      <category domain="https://insectmk.cn/tags/Ubuntu/">Ubuntu</category>
-      
-      <category domain="https://insectmk.cn/tags/EasyN2N/">EasyN2N</category>
-      
-      
-      <comments>https://insectmk.cn/posts/be3171d2/#disqus_thread</comments>
       
     </item>
     

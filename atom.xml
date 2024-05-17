@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-05-11T07:22:19.000Z</updated>
+  <updated>2024-05-17T01:18:08.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>求生之路2服务器日志（2024-05-17~）</title>
+    <link href="https://insectmk.cn/posts/a15ff462/"/>
+    <id>https://insectmk.cn/posts/a15ff462/</id>
+    <published>2024-05-17T01:18:08.000Z</published>
+    <updated>2024-05-17T01:18:08.000Z</updated>
+    
+    
+    <summary type="html">求生之路2服务器日志</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="求生之路2" scheme="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/"/>
+    
+  </entry>
   
   <entry>
     <title>使用uptime-status搭建网站监控页面</title>
@@ -434,29 +455,6 @@
     <category term="Windows11" scheme="https://insectmk.cn/tags/Windows11/"/>
     
     <category term="WSL" scheme="https://insectmk.cn/tags/WSL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ubuntu搭建EasyN2N小黄鸭并使用</title>
-    <link href="https://insectmk.cn/posts/be3171d2/"/>
-    <id>https://insectmk.cn/posts/be3171d2/</id>
-    <published>2024-03-12T06:56:31.000Z</published>
-    <updated>2024-03-31T06:56:31.000Z</updated>
-    
-    
-    <summary type="html">非局域网联机方案，强推！</summary>
-    
-    
-    
-    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
-    <category term="Ubuntu" scheme="https://insectmk.cn/tags/Ubuntu/"/>
-    
-    <category term="EasyN2N" scheme="https://insectmk.cn/tags/EasyN2N/"/>
     
   </entry>
   
