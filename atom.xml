@@ -31,9 +31,9 @@
     <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
     <category term="求生之路2" scheme="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/"/>
+    
+    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
@@ -283,14 +283,14 @@
   </entry>
   
   <entry>
-    <title>更新Butterfly博客</title>
-    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
-    <id>https://insectmk.cn/posts/d0bcb05e/</id>
+    <title>Butterfly主题的CDN配置</title>
+    <link href="https://insectmk.cn/posts/dff3be82/"/>
+    <id>https://insectmk.cn/posts/dff3be82/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
+    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
     
     
     
@@ -306,14 +306,14 @@
   </entry>
   
   <entry>
-    <title>Butterfly主题的CDN配置</title>
-    <link href="https://insectmk.cn/posts/dff3be82/"/>
-    <id>https://insectmk.cn/posts/dff3be82/</id>
+    <title>更新Butterfly博客</title>
+    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
+    <id>https://insectmk.cn/posts/d0bcb05e/</id>
     <published>2024-04-17T08:56:07.000Z</published>
     <updated>2024-04-17T08:56:07.000Z</updated>
     
     
-    <summary type="html">让你的Butterfly博客访问更加迅速</summary>
+    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
     
     
     
