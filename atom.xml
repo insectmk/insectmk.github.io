@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-06-04T10:24:11.000Z</updated>
+  <updated>2024-06-04T10:39:11.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>尚硅谷Linux学习笔记（一）</title>
+    <link href="https://insectmk.cn/posts/6be2b1f5/"/>
+    <id>https://insectmk.cn/posts/6be2b1f5/</id>
+    <published>2024-06-03T07:30:11.000Z</published>
+    <updated>2024-06-04T10:39:11.000Z</updated>
+    
+    
+    <summary type="html">哔哩哔哩-尚硅谷-Linux学习记录 第一部分</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Linux" scheme="https://insectmk.cn/tags/Linux/"/>
+    
+    <category term="尚硅谷" scheme="https://insectmk.cn/tags/%E5%B0%9A%E7%A1%85%E8%B0%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>谷粒商城学习笔记（四）</title>
@@ -440,31 +461,6 @@
     <category term="毕业设计" scheme="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="SpringBoot" scheme="https://insectmk.cn/tags/SpringBoot/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Docker搭建记账软件Firefly III</title>
-    <link href="https://insectmk.cn/posts/d1f49f22/"/>
-    <id>https://insectmk.cn/posts/d1f49f22/</id>
-    <published>2024-03-25T09:17:31.000Z</published>
-    <updated>2024-03-25T09:17:31.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h2&gt;&lt;h3 id=&quot;创建数据库&quot;&gt;&lt;a href=&quot;#创建数据库&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="软件配置" scheme="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
-    
-    
-    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   

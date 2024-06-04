@@ -15,8 +15,31 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Tue, 04 Jun 2024 10:24:11 GMT</pubDate>
+    <pubDate>Tue, 04 Jun 2024 10:39:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>尚硅谷Linux学习笔记（一）</title>
+      <link>https://insectmk.cn/posts/6be2b1f5/</link>
+      <guid>https://insectmk.cn/posts/6be2b1f5/</guid>
+      <pubDate>Mon, 03 Jun 2024 07:30:11 GMT</pubDate>
+      
+      <description>哔哩哔哩-尚硅谷-Linux学习记录 第一部分</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%B0%9A%E7%A1%85%E8%B0%B7/">尚硅谷</category>
+      
+      
+      <comments>https://insectmk.cn/posts/6be2b1f5/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>谷粒商城学习笔记（四）</title>
@@ -476,33 +499,6 @@
       
       
       <comments>https://insectmk.cn/posts/860e033f/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Docker搭建记账软件Firefly III</title>
-      <link>https://insectmk.cn/posts/d1f49f22/</link>
-      <guid>https://insectmk.cn/posts/d1f49f22/</guid>
-      <pubDate>Mon, 25 Mar 2024 09:17:31 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h2&gt;&lt;h3 id=&quot;创建数据库&quot;&gt;&lt;a href=&quot;#创建数据库&quot; class=&quot;headerlink&quot;</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/">软件配置</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
-      
-      <comments>https://insectmk.cn/posts/d1f49f22/#disqus_thread</comments>
       
     </item>
     
