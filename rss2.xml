@@ -15,8 +15,29 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Thu, 06 Jun 2024 03:15:11 GMT</pubDate>
+    <pubDate>Thu, 06 Jun 2024 10:48:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>个人电脑更新记录（2024-06-06~）</title>
+      <link>https://insectmk.cn/posts/e8b927d9/</link>
+      <guid>https://insectmk.cn/posts/e8b927d9/</guid>
+      <pubDate>Thu, 06 Jun 2024 10:48:40 GMT</pubDate>
+      
+      <description>记录个人电脑的更新与维护</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%BF%97/">日志</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91/">个人电脑</category>
+      
+      <category domain="https://insectmk.cn/tags/%E8%AE%B0%E5%BD%95/">记录</category>
+      
+      
+    </item>
     
     <item>
       <title>尚硅谷Linux学习笔记（二）</title>
@@ -476,29 +497,6 @@
       
       
       <comments>https://insectmk.cn/posts/38c5674d/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hexo博客为Butterfly主题添加Algolia文章搜索功能</title>
-      <link>https://insectmk.cn/posts/90caae33/</link>
-      <guid>https://insectmk.cn/posts/90caae33/</guid>
-      <pubDate>Mon, 01 Apr 2024 10:50:53 GMT</pubDate>
-      
-      <description>使用Algolia第三方搜索，减轻博客压力！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
-      
-      <comments>https://insectmk.cn/posts/90caae33/#disqus_thread</comments>
       
     </item>
     
