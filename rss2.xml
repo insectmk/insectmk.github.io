@@ -15,8 +15,31 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Tue, 04 Jun 2024 10:39:11 GMT</pubDate>
+    <pubDate>Thu, 06 Jun 2024 03:15:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>尚硅谷Linux学习笔记（二）</title>
+      <link>https://insectmk.cn/posts/5bf45d2d/</link>
+      <guid>https://insectmk.cn/posts/5bf45d2d/</guid>
+      <pubDate>Thu, 06 Jun 2024 03:15:11 GMT</pubDate>
+      
+      <description>哔哩哔哩-尚硅谷-Linux学习记录 第二部分</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%B0%9A%E7%A1%85%E8%B0%B7/">尚硅谷</category>
+      
+      
+      <comments>https://insectmk.cn/posts/5bf45d2d/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>尚硅谷Linux学习笔记（一）</title>
@@ -476,29 +499,6 @@
       
       
       <comments>https://insectmk.cn/posts/90caae33/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>为SpringBoot配置数据校验</title>
-      <link>https://insectmk.cn/posts/860e033f/</link>
-      <guid>https://insectmk.cn/posts/860e033f/</guid>
-      <pubDate>Tue, 26 Mar 2024 03:17:45 GMT</pubDate>
-      
-      <description>简单使用SpringBoot的JSR-303实现来完成数据的校验功能。</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
-      
-      <category domain="https://insectmk.cn/tags/SpringBoot/">SpringBoot</category>
-      
-      
-      <comments>https://insectmk.cn/posts/860e033f/#disqus_thread</comments>
       
     </item>
     
