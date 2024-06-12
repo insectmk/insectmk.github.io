@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-06-06T10:48:40.000Z</updated>
+  <updated>2024-06-12T10:48:40.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://insectmk.cn/posts/e8b927d9/"/>
     <id>https://insectmk.cn/posts/e8b927d9/</id>
     <published>2024-06-06T10:48:40.000Z</published>
-    <updated>2024-06-06T10:48:40.000Z</updated>
+    <updated>2024-06-12T10:48:40.000Z</updated>
     
     
     <summary type="html">记录个人电脑的更新与维护</summary>
@@ -373,29 +373,6 @@
   </entry>
   
   <entry>
-    <title>更新Butterfly博客</title>
-    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
-    <id>https://insectmk.cn/posts/d0bcb05e/</id>
-    <published>2024-04-17T08:56:07.000Z</published>
-    <updated>2024-04-17T08:56:07.000Z</updated>
-    
-    
-    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
-    
-    
-    
-    <category term="程序配置" scheme="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/"/>
-    
-    
-    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
-    
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
-    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Butterfly主题的CDN配置</title>
     <link href="https://insectmk.cn/posts/dff3be82/"/>
     <id>https://insectmk.cn/posts/dff3be82/</id>
@@ -412,9 +389,32 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
+    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
     <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
+  </entry>
+  
+  <entry>
+    <title>更新Butterfly博客</title>
+    <link href="https://insectmk.cn/posts/d0bcb05e/"/>
+    <id>https://insectmk.cn/posts/d0bcb05e/</id>
+    <published>2024-04-17T08:56:07.000Z</published>
+    <updated>2024-04-17T08:56:07.000Z</updated>
+    
+    
+    <summary type="html">保持你的Butterfly博客为最新状态！</summary>
+    
+    
+    
+    <category term="程序配置" scheme="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
+    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
   </entry>
   
