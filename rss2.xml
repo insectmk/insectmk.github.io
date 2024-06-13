@@ -15,8 +15,31 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Wed, 12 Jun 2024 10:48:40 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 08:01:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用Cloudflare加速Docker镜像下载</title>
+      <link>https://insectmk.cn/posts/9348d5be/</link>
+      <guid>https://insectmk.cn/posts/9348d5be/</guid>
+      <pubDate>Thu, 13 Jun 2024 08:01:10 GMT</pubDate>
+      
+      <description>最近国内有些DockerDocker镜像源下架了，害怕后面下载不了镜像了，所以想自建一个镜像加速。</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
+      
+      <category domain="https://insectmk.cn/tags/Cloudflare/">Cloudflare</category>
+      
+      
+      <comments>https://insectmk.cn/posts/9348d5be/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>个人电脑更新记录（2024-06-06~）</title>
@@ -401,31 +424,6 @@
     </item>
     
     <item>
-      <title>更新Butterfly博客</title>
-      <link>https://insectmk.cn/posts/d0bcb05e/</link>
-      <guid>https://insectmk.cn/posts/d0bcb05e/</guid>
-      <pubDate>Wed, 17 Apr 2024 08:56:07 GMT</pubDate>
-      
-      <description>保持你的Butterfly博客为最新状态！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
-      
-      <comments>https://insectmk.cn/posts/d0bcb05e/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Butterfly主题的CDN配置</title>
       <link>https://insectmk.cn/posts/dff3be82/</link>
       <guid>https://insectmk.cn/posts/dff3be82/</guid>
@@ -451,6 +449,31 @@
     </item>
     
     <item>
+      <title>更新Butterfly博客</title>
+      <link>https://insectmk.cn/posts/d0bcb05e/</link>
+      <guid>https://insectmk.cn/posts/d0bcb05e/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:56:07 GMT</pubDate>
+      
+      <description>保持你的Butterfly博客为最新状态！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      
+      <comments>https://insectmk.cn/posts/d0bcb05e/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>使用RWKV-Runner进行模型训练（三）开始训练</title>
       <link>https://insectmk.cn/posts/27ad509b/</link>
       <guid>https://insectmk.cn/posts/27ad509b/</guid>
@@ -472,31 +495,6 @@
       
       
       <comments>https://insectmk.cn/posts/27ad509b/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用RWKV-Runner进行模型训练（二）数据集准备</title>
-      <link>https://insectmk.cn/posts/38c5674d/</link>
-      <guid>https://insectmk.cn/posts/38c5674d/</guid>
-      <pubDate>Wed, 17 Apr 2024 08:29:57 GMT</pubDate>
-      
-      <description>RWKV微调的数据集准备</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
-      
-      <category domain="https://insectmk.cn/tags/RWKV/">RWKV</category>
-      
-      <category domain="https://insectmk.cn/tags/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/">语言模型</category>
-      
-      
-      <comments>https://insectmk.cn/posts/38c5674d/#disqus_thread</comments>
       
     </item>
     
