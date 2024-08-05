@@ -6,7 +6,7 @@
   <link href="https://insectmk.top/atom.xml" rel="self"/>
   
   <link href="https://insectmk.top/"/>
-  <updated>2024-07-30T01:30:07.000Z</updated>
+  <updated>2024-08-05T02:52:23.000Z</updated>
   <id>https://insectmk.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>美化你的Github个人主页</title>
+    <link href="https://insectmk.top/posts/98f3f974/"/>
+    <id>https://insectmk.top/posts/98f3f974/</id>
+    <published>2024-07-30T02:52:23.000Z</published>
+    <updated>2024-08-05T02:52:23.000Z</updated>
+    
+    
+    <summary type="html">让你的Github主页变美！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Github" scheme="https://insectmk.top/tags/Github/"/>
+    
+    <category term="美化" scheme="https://insectmk.top/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>我的Hexo博客多主题同时部署的实现思路（Butterfly+安知鱼）</title>
@@ -421,7 +442,7 @@
     <link href="https://insectmk.top/posts/d7252e66/"/>
     <id>https://insectmk.top/posts/d7252e66/</id>
     <published>2024-04-20T05:49:40.000Z</published>
-    <updated>2024-08-02T09:39:40.000Z</updated>
+    <updated>2024-08-05T08:47:40.000Z</updated>
     
     
     <summary type="html">记录服务器/网站的更新与维护</summary>
@@ -434,33 +455,6 @@
     <category term="个人博客" scheme="https://insectmk.top/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="网站" scheme="https://insectmk.top/tags/%E7%BD%91%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>部署Hexo博客后台系统Qexo</title>
-    <link href="https://insectmk.top/posts/637bb1fe/"/>
-    <id>https://insectmk.top/posts/637bb1fe/</id>
-    <published>2024-04-20T02:04:26.000Z</published>
-    <updated>2024-04-20T02:04:26.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;部署程序&quot;&gt;&lt;a href=&quot;#部署程序&quot; class=&quot;headerlink&quot; title=&quot;部署程序&quot;&gt;&lt;/a&gt;部署程序&lt;/h2&gt;&lt;h3 id=&quot;创建&quot;&gt;&lt;a href=&quot;#创建&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="软件配置" scheme="https://insectmk.top/categories/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
-    
-    
-    <category term="Hexo" scheme="https://insectmk.top/tags/Hexo/"/>
-    
-    <category term="个人博客" scheme="https://insectmk.top/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
