@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-10-23T11:25:05.000Z</updated>
+  <updated>2024-10-25T07:31:09.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何编写MySQL升级脚本</title>
+    <link href="https://insectmk.cn/posts/1798af24/"/>
+    <id>https://insectmk.cn/posts/1798af24/</id>
+    <published>2024-10-25T07:31:09.000Z</published>
+    <updated>2024-10-25T07:31:09.000Z</updated>
+    
+    
+    <summary type="html">还在为数据库维护升级而头痛吗？来看看这篇MySQL升级脚本指南吧！</summary>
+    
+    
+    
+    <category term="知识" scheme="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+    <category term="MySQL" scheme="https://insectmk.cn/tags/MySQL/"/>
+    
+    <category term="脚本" scheme="https://insectmk.cn/tags/%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
   
   <entry>
     <title>网站更新日志（2024/08/26~）</title>
@@ -73,9 +94,9 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
     <category term="安知鱼" scheme="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/"/>
     
@@ -428,31 +449,6 @@
     <category term="Vuex" scheme="https://insectmk.cn/tags/Vuex/"/>
     
     <category term="前端" scheme="https://insectmk.cn/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为Butterfly主题添加RSS订阅</title>
-    <link href="https://insectmk.cn/posts/d1271256/"/>
-    <id>https://insectmk.cn/posts/d1271256/</id>
-    <published>2024-04-21T03:55:38.000Z</published>
-    <updated>2024-04-21T03:55:38.000Z</updated>
-    
-    
-    <summary type="html">为Butterfly主题添加RSS订阅</summary>
-    
-    
-    
-    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
-    
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
-    <category term="RSS" scheme="https://insectmk.cn/tags/RSS/"/>
-    
-    <category term="ATOM" scheme="https://insectmk.cn/tags/ATOM/"/>
     
   </entry>
   

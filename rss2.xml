@@ -15,8 +15,31 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Wed, 23 Oct 2024 11:25:05 GMT</pubDate>
+    <pubDate>Fri, 25 Oct 2024 07:31:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何编写MySQL升级脚本</title>
+      <link>https://insectmk.cn/posts/1798af24/</link>
+      <guid>https://insectmk.cn/posts/1798af24/</guid>
+      <pubDate>Fri, 25 Oct 2024 07:31:09 GMT</pubDate>
+      
+      <description>还在为数据库维护升级而头痛吗？来看看这篇MySQL升级脚本指南吧！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/">知识</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/MySQL/">MySQL</category>
+      
+      <category domain="https://insectmk.cn/tags/%E8%84%9A%E6%9C%AC/">脚本</category>
+      
+      
+      <comments>https://insectmk.cn/posts/1798af24/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>网站更新日志（2024/08/26~）</title>
@@ -76,9 +99,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
       
       <category domain="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/">安知鱼</category>
       
@@ -462,33 +485,6 @@
       
       
       <comments>https://insectmk.cn/posts/2121156e/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>为Butterfly主题添加RSS订阅</title>
-      <link>https://insectmk.cn/posts/d1271256/</link>
-      <guid>https://insectmk.cn/posts/d1271256/</guid>
-      <pubDate>Sun, 21 Apr 2024 03:55:38 GMT</pubDate>
-      
-      <description>为Butterfly主题添加RSS订阅</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
-      <category domain="https://insectmk.cn/tags/RSS/">RSS</category>
-      
-      <category domain="https://insectmk.cn/tags/ATOM/">ATOM</category>
-      
-      
-      <comments>https://insectmk.cn/posts/d1271256/#disqus_thread</comments>
       
     </item>
     
