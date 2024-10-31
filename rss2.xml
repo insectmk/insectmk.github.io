@@ -15,8 +15,33 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Fri, 25 Oct 2024 07:31:09 GMT</pubDate>
+    <pubDate>Thu, 31 Oct 2024 06:24:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>基于uptime-status搭建自己的网站状态页</title>
+      <link>https://insectmk.cn/posts/a1a6577e/</link>
+      <guid>https://insectmk.cn/posts/a1a6577e/</guid>
+      <pubDate>Thu, 31 Oct 2024 06:24:41 GMT</pubDate>
+      
+      <description>对于网站状态监控一直用的是uptime-status，一个开源的Github项目，但是最近它的CloudFlare代理出问题了，所以打算使用自己的代理</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      <category domain="https://insectmk.cn/tags/CloudFlare/">CloudFlare</category>
+      
+      <category domain="https://insectmk.cn/tags/Worker/">Worker</category>
+      
+      
+      <comments>https://insectmk.cn/posts/a1a6577e/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>如何编写MySQL升级脚本</title>
@@ -458,33 +483,6 @@
       
       
       <comments>https://insectmk.cn/posts/25cb1d21/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Vue2配置Vuex并使用</title>
-      <link>https://insectmk.cn/posts/2121156e/</link>
-      <guid>https://insectmk.cn/posts/2121156e/</guid>
-      <pubDate>Wed, 24 Apr 2024 02:09:22 GMT</pubDate>
-      
-      <description>详细说明了如何在Vue2项目中配置Vuex的使用</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/">毕业设计</category>
-      
-      <category domain="https://insectmk.cn/tags/Vue2/">Vue2</category>
-      
-      <category domain="https://insectmk.cn/tags/Vuex/">Vuex</category>
-      
-      <category domain="https://insectmk.cn/tags/%E5%89%8D%E7%AB%AF/">前端</category>
-      
-      
-      <comments>https://insectmk.cn/posts/2121156e/#disqus_thread</comments>
       
     </item>
     
