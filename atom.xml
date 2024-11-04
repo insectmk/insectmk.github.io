@@ -65,7 +65,7 @@
     <link href="https://insectmk.cn/posts/17241f42/"/>
     <id>https://insectmk.cn/posts/17241f42/</id>
     <published>2024-08-26T04:25:05.000Z</published>
-    <updated>2024-11-01T11:25:05.000Z</updated>
+    <updated>2024-11-04T11:25:05.000Z</updated>
     
     
     <summary type="html">记录服务器/网站的更新与维护</summary>
@@ -423,9 +423,9 @@
     <category term="笔记" scheme="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="学习" scheme="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
     <category term="Redis" scheme="https://insectmk.cn/tags/Redis/"/>
+    
+    <category term="学习" scheme="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
