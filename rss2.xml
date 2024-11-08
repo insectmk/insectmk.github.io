@@ -15,8 +15,33 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Thu, 31 Oct 2024 06:24:41 GMT</pubDate>
+    <pubDate>Fri, 08 Nov 2024 08:38:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用自定义CSS美化你的Butterfly博客！</title>
+      <link>https://insectmk.cn/posts/f26a952d/</link>
+      <guid>https://insectmk.cn/posts/f26a952d/</guid>
+      <pubDate>Fri, 08 Nov 2024 08:38:42 GMT</pubDate>
+      
+      <description>还在担心你的博客太大众化了吗？来看看这篇文章吧！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      
+      <comments>https://insectmk.cn/posts/f26a952d/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>基于uptime-status搭建自己的网站状态页</title>
@@ -460,29 +485,6 @@
       
       
       <comments>https://insectmk.cn/posts/a560e78/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>联想拯救者Y7000P-2022清灰</title>
-      <link>https://insectmk.cn/posts/25cb1d21/</link>
-      <guid>https://insectmk.cn/posts/25cb1d21/</guid>
-      <pubDate>Sat, 04 May 2024 11:21:49 GMT</pubDate>
-      
-      <description>笔记本从买来就没有清过灰，最近明显感觉到笔记本的温度很高，开机使用迅雷下个电影CPU的温度就飙升到了98摄氏度，记录下清灰步骤，方便下次清灰。</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%B8%B8/">日常</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E7%AC%94%E8%AE%B0%E6%9C%AC/">笔记本</category>
-      
-      <category domain="https://insectmk.cn/tags/%E6%B8%85%E7%81%B0/">清灰</category>
-      
-      
-      <comments>https://insectmk.cn/posts/25cb1d21/#disqus_thread</comments>
       
     </item>
     

@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-10-31T06:24:41.000Z</updated>
+  <updated>2024-11-08T08:38:42.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用自定义CSS美化你的Butterfly博客！</title>
+    <link href="https://insectmk.cn/posts/f26a952d/"/>
+    <id>https://insectmk.cn/posts/f26a952d/</id>
+    <published>2024-11-08T08:38:42.000Z</published>
+    <updated>2024-11-08T08:38:42.000Z</updated>
+    
+    
+    <summary type="html">还在担心你的博客太大众化了吗？来看看这篇文章吧！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
+    
+    <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>基于uptime-status搭建自己的网站状态页</title>
@@ -426,27 +449,6 @@
     <category term="学习" scheme="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="Redis" scheme="https://insectmk.cn/tags/Redis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>联想拯救者Y7000P-2022清灰</title>
-    <link href="https://insectmk.cn/posts/25cb1d21/"/>
-    <id>https://insectmk.cn/posts/25cb1d21/</id>
-    <published>2024-05-04T11:21:49.000Z</published>
-    <updated>2024-05-04T11:21:49.000Z</updated>
-    
-    
-    <summary type="html">笔记本从买来就没有清过灰，最近明显感觉到笔记本的温度很高，开机使用迅雷下个电影CPU的温度就飙升到了98摄氏度，记录下清灰步骤，方便下次清灰。</summary>
-    
-    
-    
-    <category term="日常" scheme="https://insectmk.cn/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="笔记本" scheme="https://insectmk.cn/tags/%E7%AC%94%E8%AE%B0%E6%9C%AC/"/>
-    
-    <category term="清灰" scheme="https://insectmk.cn/tags/%E6%B8%85%E7%81%B0/"/>
     
   </entry>
   
