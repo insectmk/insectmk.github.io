@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-11-08T08:38:42.000Z</updated>
+  <updated>2024-11-09T01:53:08.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>让你的Minecraft服务器同时支持Java版和基岩版</title>
+    <link href="https://insectmk.cn/posts/8f850806/"/>
+    <id>https://insectmk.cn/posts/8f850806/</id>
+    <published>2024-11-08T12:03:08.000Z</published>
+    <updated>2024-11-09T01:53:08.000Z</updated>
+    
+    
+    <summary type="html">搭建一个适合老年人体质的服务器真的太难了！想让你和你的朋友能随时随机无门槛游玩你的服务器吗？快来尝试下搭建一个Java基岩互通&amp;插件版服务器吧！</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="我的世界" scheme="https://insectmk.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>使用自定义CSS美化你的Butterfly博客！</title>
@@ -428,27 +447,6 @@
     <category term="1Panel" scheme="https://insectmk.cn/tags/1Panel/"/>
     
     <category term="SSL证书" scheme="https://insectmk.cn/tags/SSL%E8%AF%81%E4%B9%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis学习笔记（一）</title>
-    <link href="https://insectmk.cn/posts/a560e78/"/>
-    <id>https://insectmk.cn/posts/a560e78/</id>
-    <published>2024-05-04T12:19:35.000Z</published>
-    <updated>2024-05-07T12:19:35.000Z</updated>
-    
-    
-    <summary type="html">记录下Redis的学习</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="学习" scheme="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="Redis" scheme="https://insectmk.cn/tags/Redis/"/>
     
   </entry>
   

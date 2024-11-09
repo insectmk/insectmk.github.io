@@ -15,8 +15,29 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Fri, 08 Nov 2024 08:38:42 GMT</pubDate>
+    <pubDate>Sat, 09 Nov 2024 01:53:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>让你的Minecraft服务器同时支持Java版和基岩版</title>
+      <link>https://insectmk.cn/posts/8f850806/</link>
+      <guid>https://insectmk.cn/posts/8f850806/</guid>
+      <pubDate>Fri, 08 Nov 2024 12:03:08 GMT</pubDate>
+      
+      <description>搭建一个适合老年人体质的服务器真的太难了！想让你和你的朋友能随时随机无门槛游玩你的服务器吗？快来尝试下搭建一个Java基岩互通&amp;插件版服务器吧！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      
+      
+      <comments>https://insectmk.cn/posts/8f850806/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用自定义CSS美化你的Butterfly博客！</title>
@@ -462,29 +483,6 @@
       
       
       <comments>https://insectmk.cn/posts/f3cf7d8c/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Redis学习笔记（一）</title>
-      <link>https://insectmk.cn/posts/a560e78/</link>
-      <guid>https://insectmk.cn/posts/a560e78/</guid>
-      <pubDate>Sat, 04 May 2024 12:19:35 GMT</pubDate>
-      
-      <description>记录下Redis的学习</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E5%AD%A6%E4%B9%A0/">学习</category>
-      
-      <category domain="https://insectmk.cn/tags/Redis/">Redis</category>
-      
-      
-      <comments>https://insectmk.cn/posts/a560e78/#disqus_thread</comments>
       
     </item>
     
