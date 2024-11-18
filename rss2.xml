@@ -15,8 +15,35 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Sat, 09 Nov 2024 01:53:08 GMT</pubDate>
+    <pubDate>Mon, 18 Nov 2024 06:37:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何使用CloudFlare Worker搭建UptimeRobot接口代理并设置缓存时间</title>
+      <link>https://insectmk.cn/posts/236f327f/</link>
+      <guid>https://insectmk.cn/posts/236f327f/</guid>
+      <pubDate>Mon, 18 Nov 2024 06:37:41 GMT</pubDate>
+      
+      <description>之前已经使用CloudFlare Worker搭建了一个UptimeRobot地接口代理，但是效果并不好，官方接口1分钟只能请求10次，导致多次刷新网站就会出现429错误。这次不仅更新了Worker的代码，还重构了Uptime-Status项目，改动非常的大。</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      <category domain="https://insectmk.cn/tags/CloudFlare/">CloudFlare</category>
+      
+      <category domain="https://insectmk.cn/tags/Worker/">Worker</category>
+      
+      <category domain="https://insectmk.cn/tags/UptimeRobot/">UptimeRobot</category>
+      
+      
+      <comments>https://insectmk.cn/posts/236f327f/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>让你的Minecraft服务器同时支持Java版和基岩版</title>
@@ -458,31 +485,6 @@
       
       
       <comments>https://insectmk.cn/posts/8cb2f7de/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>在1Panel中申请SSL证书</title>
-      <link>https://insectmk.cn/posts/f3cf7d8c/</link>
-      <guid>https://insectmk.cn/posts/f3cf7d8c/</guid>
-      <pubDate>Tue, 07 May 2024 09:23:15 GMT</pubDate>
-      
-      <description>最近insectmk.cn的SSL证书要过期了，又要手动去腾讯云申请免费的SSL证书了。&lt;br/&gt;想到以后一到期就要去手动续费，非常的麻烦，就想利用下1Panel的自动申请证书功能了，并且管理起来还特别方便。</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
-      <category domain="https://insectmk.cn/tags/1Panel/">1Panel</category>
-      
-      <category domain="https://insectmk.cn/tags/SSL%E8%AF%81%E4%B9%A6/">SSL证书</category>
-      
-      
-      <comments>https://insectmk.cn/posts/f3cf7d8c/#disqus_thread</comments>
       
     </item>
     
