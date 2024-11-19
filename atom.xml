@@ -100,6 +100,8 @@
     
     <category term="网站" scheme="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/"/>
     
+    <category term="Uptime" scheme="https://insectmk.cn/tags/Uptime/"/>
+    
     <category term="CloudFlare" scheme="https://insectmk.cn/tags/CloudFlare/"/>
     
     <category term="Worker" scheme="https://insectmk.cn/tags/Worker/"/>
@@ -382,6 +384,8 @@
     <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     <category term="工具" scheme="https://insectmk.cn/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Uptime" scheme="https://insectmk.cn/tags/Uptime/"/>
     
   </entry>
   
