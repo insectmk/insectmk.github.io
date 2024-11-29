@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-11-18T06:37:41.000Z</updated>
+  <updated>2024-11-29T06:21:49.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>联想拯救者Y7000P-2024使用记录</title>
+    <link href="https://insectmk.cn/posts/a79c3396/"/>
+    <id>https://insectmk.cn/posts/a79c3396/</id>
+    <published>2024-11-22T01:21:49.000Z</published>
+    <updated>2024-11-29T06:21:49.000Z</updated>
+    
+    
+    <summary type="html">时隔两年，我还是选择了联想拯救者Y7000P</summary>
+    
+    
+    
+    <category term="日常" scheme="https://insectmk.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="笔记本" scheme="https://insectmk.cn/tags/%E7%AC%94%E8%AE%B0%E6%9C%AC/"/>
+    
+    <category term="新设备" scheme="https://insectmk.cn/tags/%E6%96%B0%E8%AE%BE%E5%A4%87/"/>
+    
+  </entry>
   
   <entry>
     <title>如何使用CloudFlare Worker搭建UptimeRobot接口代理并设置缓存时间</title>
@@ -416,29 +437,6 @@
     <id>https://insectmk.cn/posts/bca41b06/</id>
     <published>2024-05-10T01:45:42.000Z</published>
     <updated>2024-05-10T01:45:42.000Z</updated>
-    
-    
-    <summary type="html">哔哩哔哩-尚硅谷-谷粒商城项目的学习记录</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="谷粒商城" scheme="https://insectmk.cn/tags/%E8%B0%B7%E7%B2%92%E5%95%86%E5%9F%8E/"/>
-    
-    <category term="微服务" scheme="https://insectmk.cn/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
-    
-    <category term="Java项目" scheme="https://insectmk.cn/tags/Java%E9%A1%B9%E7%9B%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>谷粒商城学习笔记（一）</title>
-    <link href="https://insectmk.cn/posts/8cb2f7de/"/>
-    <id>https://insectmk.cn/posts/8cb2f7de/</id>
-    <published>2024-05-09T05:56:39.000Z</published>
-    <updated>2024-05-09T05:56:39.000Z</updated>
     
     
     <summary type="html">哔哩哔哩-尚硅谷-谷粒商城项目的学习记录</summary>
