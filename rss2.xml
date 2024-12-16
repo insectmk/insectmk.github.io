@@ -15,8 +15,27 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Thu, 05 Dec 2024 03:03:08 GMT</pubDate>
+    <pubDate>Thu, 12 Dec 2024 10:04:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用Java运行免费的语言模型：星火认知大模型lite</title>
+      <link>https://insectmk.cn/posts/c704998b/</link>
+      <guid>https://insectmk.cn/posts/c704998b/</guid>
+      <pubDate>Thu, 12 Dec 2024 10:04:40 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/">未分类</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E8%8D%89%E7%A8%BF/">草稿</category>
+      
+      
+      <comments>https://insectmk.cn/posts/c704998b/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>我的世界互通服务器日志（2024-02-19~）</title>
@@ -157,9 +176,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
       
       
       <comments>https://insectmk.cn/posts/f26a952d/#disqus_thread</comments>
@@ -274,9 +293,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
       
       <category domain="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/">安知鱼</category>
       
@@ -466,31 +485,6 @@
       
       <category domain="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/">求生之路2</category>
       
-      
-    </item>
-    
-    <item>
-      <title>使用uptime-status搭建网站监控页面</title>
-      <link>https://insectmk.cn/posts/bf075edd/</link>
-      <guid>https://insectmk.cn/posts/bf075edd/</guid>
-      <pubDate>Sat, 11 May 2024 07:22:19 GMT</pubDate>
-      
-      <description>使用uptime-status搭建网站监控页面</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
-      <category domain="https://insectmk.cn/tags/%E5%B7%A5%E5%85%B7/">工具</category>
-      
-      <category domain="https://insectmk.cn/tags/Uptime/">Uptime</category>
-      
-      
-      <comments>https://insectmk.cn/posts/bf075edd/#disqus_thread</comments>
       
     </item>
     

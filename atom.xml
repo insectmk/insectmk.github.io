@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-12-05T03:03:08.000Z</updated>
+  <updated>2024-12-12T10:04:40.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用Java运行免费的语言模型：星火认知大模型lite</title>
+    <link href="https://insectmk.cn/posts/c704998b/"/>
+    <id>https://insectmk.cn/posts/c704998b/</id>
+    <published>2024-12-12T10:04:40.000Z</published>
+    <updated>2024-12-12T10:04:40.000Z</updated>
+    
+    
+    
+    
+    <category term="未分类" scheme="https://insectmk.cn/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+    <category term="草稿" scheme="https://insectmk.cn/tags/%E8%8D%89%E7%A8%BF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我的世界互通服务器日志（2024-02-19~）</title>
     <link href="https://insectmk.cn/posts/b4c68f75/"/>
     <id>https://insectmk.cn/posts/b4c68f75/</id>
     <published>2024-12-05T03:03:08.000Z</published>
-    <updated>2024-12-05T03:03:08.000Z</updated>
+    <updated>2024-12-16T03:03:08.000Z</updated>
     
     
     <summary type="html">我的世界互通服务器日志</summary>
@@ -148,9 +165,9 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
   </entry>
   
@@ -257,9 +274,9 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
     <category term="安知鱼" scheme="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/"/>
     
@@ -434,29 +451,6 @@
     <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     <category term="求生之路2" scheme="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用uptime-status搭建网站监控页面</title>
-    <link href="https://insectmk.cn/posts/bf075edd/"/>
-    <id>https://insectmk.cn/posts/bf075edd/</id>
-    <published>2024-05-11T07:22:19.000Z</published>
-    <updated>2024-07-19T07:22:19.000Z</updated>
-    
-    
-    <summary type="html">使用uptime-status搭建网站监控页面</summary>
-    
-    
-    
-    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
-    <category term="工具" scheme="https://insectmk.cn/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-    <category term="Uptime" scheme="https://insectmk.cn/tags/Uptime/"/>
     
   </entry>
   
