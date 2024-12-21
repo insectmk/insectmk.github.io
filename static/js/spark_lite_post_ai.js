@@ -32,9 +32,7 @@ const config = {//配置
     sparkConfig: { // 讯飞星火配置
         /*官方地址 https://spark-api-open.xf-yun.com/v1/chat/completions
         * 测试地址 https://spark.insectmk.top */
-        apiUrl: window.location.protocol === 'https:' ?//请求地址
-            'https://spark-api-open.xf-yun.com/v1/chat/completions' ://生产环境（https）
-            'https://spark.insectmk.top',//开发环境（http）
+        apiUrl: 'https://spark.insectmk.top',
         apiPassword: 'jXaZtjjgYeLouFpoKyAW:cqPGUXUhukpVHeVhJVlB',//API密钥
         model: 'lite',//模型
         stream: true,//是否流式传输
@@ -240,6 +238,7 @@ function createSummaryEl(summaryElConfig) {
     // 给摘要元素添加样式
     summaryEl.style.border = '1px solid #ccc'
     summaryEl.style.padding = '5px 16px 0 16px'
+    summaryEl.style.marginBottom = '8px'
     summaryEl.style.borderRadius = '8px'
     summaryEl.style.backgroundColor = 'rgba(247, 247, 249, 0.5)'
     summaryEl.style.boxShadow = '0 2px 4px rgba(0, 0, 0, 0.1)'
