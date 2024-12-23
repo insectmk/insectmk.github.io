@@ -15,8 +15,33 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Mon, 16 Dec 2024 03:03:08 GMT</pubDate>
+    <pubDate>Mon, 23 Dec 2024 10:04:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>给Hexo博客做一个免费的AI摘要</title>
+      <link>https://insectmk.cn/posts/bd1d7526/</link>
+      <guid>https://insectmk.cn/posts/bd1d7526/</guid>
+      <pubDate>Thu, 12 Dec 2024 10:04:40 GMT</pubDate>
+      
+      <description>看到别人的文章有AI摘要是否眼红，但是又不想花钱，更不想搭一个后端系统，那就来试试这个方法吧！0成本让你的博客拥有AI摘要功能！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/AI%E6%91%98%E8%A6%81/">AI摘要</category>
+      
+      
+      <comments>https://insectmk.cn/posts/bd1d7526/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>我的世界互通服务器日志（2024/12/05~）</title>
@@ -466,31 +491,6 @@
       
       <category domain="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/">求生之路2</category>
       
-      
-    </item>
-    
-    <item>
-      <title>使用uptime-status搭建网站监控页面</title>
-      <link>https://insectmk.cn/posts/bf075edd/</link>
-      <guid>https://insectmk.cn/posts/bf075edd/</guid>
-      <pubDate>Sat, 11 May 2024 07:22:19 GMT</pubDate>
-      
-      <description>使用uptime-status搭建网站监控页面</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
-      <category domain="https://insectmk.cn/tags/%E5%B7%A5%E5%85%B7/">工具</category>
-      
-      <category domain="https://insectmk.cn/tags/Uptime/">Uptime</category>
-      
-      
-      <comments>https://insectmk.cn/posts/bf075edd/#disqus_thread</comments>
       
     </item>
     
