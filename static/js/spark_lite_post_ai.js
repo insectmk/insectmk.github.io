@@ -3,12 +3,6 @@ const config = {//配置
     summaryElConfig: { // 盒子参数
         appendBeforeEl: '#post #article-container', // 需要添加在哪个DIV的前面
         buttons: [{
-            text: '介绍自己', // 按钮文字
-            bgColor: 'rgba(40,167,69,0.7)', // 按钮背景色
-            onClick: () => {// 按钮点击事件
-                aiIntroduce(config.sparkConfig, summaryData)
-            }
-        }, {
             text: '重新生成', // 按钮文字
             bgColor: 'rgba(12,107,166,0.7)', // 按钮背景色
             onClick: async () => {// 按钮点击事件
@@ -22,7 +16,13 @@ const config = {//配置
                     summaryData.setValue(summary)
                 }
             }
-        }],
+        }, {
+            text: '介绍自己', // 按钮文字
+            bgColor: 'rgba(40,167,69,0.7)', // 按钮背景色
+            onClick: () => {// 按钮点击事件
+                aiIntroduce(config.sparkConfig, summaryData)
+            }
+        }, ],
     },
     postContentConfig: { // 文章参数
         titleEl: 'h1', // 标题元素
@@ -96,7 +96,7 @@ async function init(config) {
  */
 function aiIntroduce(sparkConfig, summaryData) {
     chatWithSparkStream(sparkConfig.apiUrl,
-        getSparkFetchOptions(sparkConfig, '你是一个智能摘要生成工具，专注于从给定的文章内容中提取并总结关键信息。你的任务是简洁明了地介绍自己的功能和目的。请用中文简洁地说明你是如何分析和概括文章内容的，同时避免赘述和无关的建议。你的输出不超过200字，且不应换行。你不需要提出缺失的部分，只需要客观地描述自己如何生成摘要。'),
+        getSparkFetchOptions(sparkConfig, '你是一个智能摘要生成工具，专注于从给定的文章内容中提取并总结关键信息。你的任务是简洁明了地介绍自己的功能和目的，不要换行，不要超过200字，不需要提出建议和缺少的东西，请用中文回答。'),
         summaryData)
 }
 /*******************内置库*******************/
