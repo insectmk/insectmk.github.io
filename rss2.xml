@@ -15,8 +15,33 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Mon, 23 Dec 2024 10:04:40 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 08:19:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用JellyFin+CloudDriver搭建一个属于自己的线上电影院</title>
+      <link>https://insectmk.cn/posts/2e8c1999/</link>
+      <guid>https://insectmk.cn/posts/2e8c1999/</guid>
+      <pubDate>Thu, 26 Dec 2024 08:19:16 GMT</pubDate>
+      
+      <description>突然看到1Panel发的推文了，《通过1Panel安装Jellyfin和CloudDrive2，你也可以拥有大容量的影视服务器》，赶快试一试，可惜云服务器配置有点儿低，不能实际使用，等有钱了一定要搞台NAS！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/1Panel/">1Panel</category>
+      
+      <category domain="https://insectmk.cn/tags/Jellyfin/">Jellyfin</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%BD%B1%E8%A7%86%E6%9C%8D%E5%8A%A1%E5%99%A8/">影视服务器</category>
+      
+      
+      <comments>https://insectmk.cn/posts/2e8c1999/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>给Hexo博客做一个免费的AI摘要</title>
@@ -182,9 +207,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
       
       
       <comments>https://insectmk.cn/posts/f26a952d/#disqus_thread</comments>
@@ -299,9 +324,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
       
       <category domain="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/">安知鱼</category>
       
@@ -470,27 +495,6 @@
       
       
       <comments>https://insectmk.cn/posts/4697a131/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>求生之路2服务器日志（2024/05/17~）</title>
-      <link>https://insectmk.cn/posts/a15ff462/</link>
-      <guid>https://insectmk.cn/posts/a15ff462/</guid>
-      <pubDate>Fri, 17 May 2024 01:18:08 GMT</pubDate>
-      
-      <description>求生之路2服务器日志</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/">求生之路2</category>
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
       
     </item>
     

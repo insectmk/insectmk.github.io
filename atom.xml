@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-12-23T10:04:40.000Z</updated>
+  <updated>2024-12-26T08:19:16.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用JellyFin+CloudDriver搭建一个属于自己的线上电影院</title>
+    <link href="https://insectmk.cn/posts/2e8c1999/"/>
+    <id>https://insectmk.cn/posts/2e8c1999/</id>
+    <published>2024-12-26T08:19:16.000Z</published>
+    <updated>2024-12-26T08:19:16.000Z</updated>
+    
+    
+    <summary type="html">突然看到1Panel发的推文了，《通过1Panel安装Jellyfin和CloudDrive2，你也可以拥有大容量的影视服务器》，赶快试一试，可惜云服务器配置有点儿低，不能实际使用，等有钱了一定要搞台NAS！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="1Panel" scheme="https://insectmk.cn/tags/1Panel/"/>
+    
+    <category term="Jellyfin" scheme="https://insectmk.cn/tags/Jellyfin/"/>
+    
+    <category term="影视服务器" scheme="https://insectmk.cn/tags/%E5%BD%B1%E8%A7%86%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>给Hexo博客做一个免费的AI摘要</title>
@@ -171,9 +194,9 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
   </entry>
   
@@ -228,7 +251,7 @@
     <link href="https://insectmk.cn/posts/17241f42/"/>
     <id>https://insectmk.cn/posts/17241f42/</id>
     <published>2024-08-26T04:25:05.000Z</published>
-    <updated>2024-12-23T09:37:05.000Z</updated>
+    <updated>2024-12-26T09:37:05.000Z</updated>
     
     
     <summary type="html">记录服务器/网站的更新与维护</summary>
@@ -280,9 +303,9 @@
     
     <category term="Hexo" scheme="https://insectmk.cn/tags/Hexo/"/>
     
-    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
-    
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://insectmk.cn/tags/Butterfly/"/>
     
     <category term="安知鱼" scheme="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/"/>
     
@@ -436,27 +459,6 @@
     <category term="谷粒商城" scheme="https://insectmk.cn/tags/%E8%B0%B7%E7%B2%92%E5%95%86%E5%9F%8E/"/>
     
     <category term="Java项目" scheme="https://insectmk.cn/tags/Java%E9%A1%B9%E7%9B%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>求生之路2服务器日志（2024/05/17~）</title>
-    <link href="https://insectmk.cn/posts/a15ff462/"/>
-    <id>https://insectmk.cn/posts/a15ff462/</id>
-    <published>2024-05-17T01:18:08.000Z</published>
-    <updated>2024-08-26T01:18:08.000Z</updated>
-    
-    
-    <summary type="html">求生之路2服务器日志</summary>
-    
-    
-    
-    <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="求生之路2" scheme="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/"/>
-    
-    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
