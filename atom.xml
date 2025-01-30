@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2024-12-26T08:19:16.000Z</updated>
+  <updated>2025-01-29T02:37:31.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>腾讯云轻量级服务器：入门型转为锐驰型高峰值带宽</title>
+    <link href="https://insectmk.cn/posts/9c4c8fb5/"/>
+    <id>https://insectmk.cn/posts/9c4c8fb5/</id>
+    <published>2025-01-29T02:37:31.000Z</published>
+    <updated>2025-01-29T02:37:31.000Z</updated>
+    
+    
+    <summary type="html">腾讯云刚出的高峰值带宽服务器-轻量云锐驰型，对需要内网穿透的个人玩家来说真的是一个福音啊！立马就给他换上了！</summary>
+    
+    
+    
+    <category term="日常" scheme="https://insectmk.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="腾讯云" scheme="https://insectmk.cn/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在SQL Server中编写SQL脚本</title>
+    <link href="https://insectmk.cn/posts/90fb9b17/"/>
+    <id>https://insectmk.cn/posts/90fb9b17/</id>
+    <published>2025-01-29T02:10:53.000Z</published>
+    <updated>2025-01-29T02:10:53.000Z</updated>
+    
+    
+    <summary type="html">入职半年了，学到不少东西，尤其是SQL Server的应用功力增长了不少，开始了解到SQL脚本的使用场景与编写技巧，在此记录。</summary>
+    
+    
+    
+    <category term="知识" scheme="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+    <category term="SQL" scheme="https://insectmk.cn/tags/SQL/"/>
+    
+    <category term="SQL Server" scheme="https://insectmk.cn/tags/SQL-Server/"/>
+    
+  </entry>
   
   <entry>
     <title>使用JellyFin+CloudDriver搭建一个属于自己的线上电影院</title>
@@ -251,7 +293,7 @@
     <link href="https://insectmk.cn/posts/17241f42/"/>
     <id>https://insectmk.cn/posts/17241f42/</id>
     <published>2024-08-26T04:25:05.000Z</published>
-    <updated>2025-01-14T03:24:05.000Z</updated>
+    <updated>2025-01-29T02:24:05.000Z</updated>
     
     
     <summary type="html">记录服务器/网站的更新与维护</summary>
@@ -417,48 +459,6 @@
     <category term="Linux" scheme="https://insectmk.cn/tags/Linux/"/>
     
     <category term="尚硅谷" scheme="https://insectmk.cn/tags/%E5%B0%9A%E7%A1%85%E8%B0%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>尚硅谷Linux学习笔记（一）</title>
-    <link href="https://insectmk.cn/posts/6be2b1f5/"/>
-    <id>https://insectmk.cn/posts/6be2b1f5/</id>
-    <published>2024-06-03T07:30:11.000Z</published>
-    <updated>2024-06-04T10:39:11.000Z</updated>
-    
-    
-    <summary type="html">哔哩哔哩-尚硅谷-Linux学习记录 第一部分</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="Linux" scheme="https://insectmk.cn/tags/Linux/"/>
-    
-    <category term="尚硅谷" scheme="https://insectmk.cn/tags/%E5%B0%9A%E7%A1%85%E8%B0%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>谷粒商城学习笔记（四）</title>
-    <link href="https://insectmk.cn/posts/4697a131/"/>
-    <id>https://insectmk.cn/posts/4697a131/</id>
-    <published>2024-05-24T10:24:11.000Z</published>
-    <updated>2024-06-04T10:24:11.000Z</updated>
-    
-    
-    <summary type="html">哔哩哔哩-尚硅谷-谷粒商城学习记录，第四部分</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://insectmk.cn/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="谷粒商城" scheme="https://insectmk.cn/tags/%E8%B0%B7%E7%B2%92%E5%95%86%E5%9F%8E/"/>
-    
-    <category term="Java项目" scheme="https://insectmk.cn/tags/Java%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
