@@ -15,8 +15,68 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Thu, 30 Jan 2025 02:38:25 GMT</pubDate>
+    <pubDate>Sun, 02 Feb 2025 07:09:25 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hexo-Butterfly主题的文章如何嵌入数学公式</title>
+      <link>https://insectmk.cn/posts/6a9930a0/</link>
+      <guid>https://insectmk.cn/posts/6a9930a0/</guid>
+      <pubDate>Sun, 02 Feb 2025 07:09:25 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/">数学公式</category>
+      
+      
+      <comments>https://insectmk.cn/posts/6a9930a0/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>算法入门：基础数据结构与算法</title>
+      <link>https://insectmk.cn/posts/b4f53cad/</link>
+      <guid>https://insectmk.cn/posts/b4f53cad/</guid>
+      <pubDate>Sat, 01 Feb 2025 15:56:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;昨天晃了晃&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/">知识</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E7%AE%97%E6%B3%95/">算法</category>
+      
+      
+      <comments>https://insectmk.cn/posts/b4f53cad/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>我的2024年终总结</title>
@@ -276,9 +336,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
       
       
       <comments>https://insectmk.cn/posts/f26a952d/#disqus_thread</comments>
@@ -393,9 +453,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
+      
+      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
       
       <category domain="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/">安知鱼</category>
       
@@ -451,50 +511,6 @@
       
       
       <comments>https://insectmk.cn/posts/9c83ed78/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用Cloudflare加速Docker镜像下载</title>
-      <link>https://insectmk.cn/posts/9348d5be/</link>
-      <guid>https://insectmk.cn/posts/9348d5be/</guid>
-      <pubDate>Thu, 13 Jun 2024 08:01:10 GMT</pubDate>
-      
-      <description>最近国内有些DockerDocker镜像源下架了，害怕后面下载不了镜像了，所以想自建一个镜像加速。</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
-      
-      <category domain="https://insectmk.cn/tags/Cloudflare/">Cloudflare</category>
-      
-      
-      <comments>https://insectmk.cn/posts/9348d5be/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>个人电脑更新记录（2024/06/06~）</title>
-      <link>https://insectmk.cn/posts/e8b927d9/</link>
-      <guid>https://insectmk.cn/posts/e8b927d9/</guid>
-      <pubDate>Thu, 06 Jun 2024 10:48:40 GMT</pubDate>
-      
-      <description>记录个人电脑的更新与维护</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91/">个人电脑</category>
-      
-      <category domain="https://insectmk.cn/tags/%E8%AE%B0%E5%BD%95/">记录</category>
-      
       
     </item>
     
