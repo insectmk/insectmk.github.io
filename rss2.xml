@@ -15,8 +15,42 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Sun, 02 Feb 2025 07:09:25 GMT</pubDate>
+    <pubDate>Sun, 02 Feb 2025 09:24:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用MinIO搭建自己的图床并配置到PicGO</title>
+      <link>https://insectmk.cn/posts/45228a45/</link>
+      <guid>https://insectmk.cn/posts/45228a45/</guid>
+      <pubDate>Sun, 02 Feb 2025 09:24:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近换了高峰值带宽的服务器，在想要不要把把图床迁移到自己的服务器上，可别浪费了这大带宽了，心一狠，开干！&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      <category domain="https://insectmk.cn/tags/PicGo/">PicGo</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%9B%BE%E5%BA%8A/">图床</category>
+      
+      <category domain="https://insectmk.cn/tags/MinIO/">MinIO</category>
+      
+      
+      <comments>https://insectmk.cn/posts/45228a45/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hexo-Butterfly主题的文章如何嵌入数学公式</title>
@@ -40,9 +74,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
       <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
       
       <category domain="https://insectmk.cn/tags/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/">数学公式</category>
       
@@ -336,9 +370,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
       <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
       
       
       <comments>https://insectmk.cn/posts/f26a952d/#disqus_thread</comments>
@@ -359,9 +393,9 @@
       <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
-      
       <category domain="https://insectmk.cn/tags/Uptime/">Uptime</category>
+      
+      <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
       
       <category domain="https://insectmk.cn/tags/CloudFlare/">CloudFlare</category>
       
@@ -453,9 +487,9 @@
       
       <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
       
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
       <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
       
       <category domain="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/">安知鱼</category>
       
@@ -488,29 +522,6 @@
       
       
       <comments>https://insectmk.cn/posts/129b7f4a/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>无需更改源码！让你的Hexo的文章在首页隐藏</title>
-      <link>https://insectmk.cn/posts/9c83ed78/</link>
-      <guid>https://insectmk.cn/posts/9c83ed78/</guid>
-      <pubDate>Fri, 19 Jul 2024 02:22:45 GMT</pubDate>
-      
-      <description>不想让你的文章被发现？看看这篇文章来学习如何隐藏Hexo博客中的文章叭！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
-      
-      <comments>https://insectmk.cn/posts/9c83ed78/#disqus_thread</comments>
       
     </item>
     
