@@ -15,8 +15,37 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Sun, 02 Feb 2025 09:24:08 GMT</pubDate>
+    <pubDate>Mon, 17 Feb 2025 08:52:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Head First 设计模式（一）</title>
+      <link>https://insectmk.cn/posts/44c3c894/</link>
+      <guid>https://insectmk.cn/posts/44c3c894/</guid>
+      <pubDate>Thu, 13 Feb 2025 12:56:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近开始琢磨设计模式了，发现自己在做程序设计时，老是没有头绪，所以拿起了这本典型的设计模式入门书籍-《Head First</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/">知识</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/">设计模式</category>
+      
+      <category domain="https://insectmk.cn/tags/%E3%80%8AHead-First%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B/">《Head First设计模式》</category>
+      
+      
+      <comments>https://insectmk.cn/posts/44c3c894/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用MinIO搭建自己的图床并配置到PicGo</title>
@@ -393,9 +422,9 @@
       <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://insectmk.cn/tags/Uptime/">Uptime</category>
-      
       <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      <category domain="https://insectmk.cn/tags/Uptime/">Uptime</category>
       
       <category domain="https://insectmk.cn/tags/CloudFlare/">CloudFlare</category>
       
@@ -495,33 +524,6 @@
       
       
       <comments>https://insectmk.cn/posts/10d64ca8/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用Spring AI对接Ollama搭建自己的智能问答网站</title>
-      <link>https://insectmk.cn/posts/129b7f4a/</link>
-      <guid>https://insectmk.cn/posts/129b7f4a/</guid>
-      <pubDate>Sat, 20 Jul 2024 02:45:24 GMT</pubDate>
-      
-      <description>作为一名Java开发，想使用Java快速开发一个支持智能问答的网站，快来看看这篇文章学习如何使用Spring AI搭建一个对接本地AI模型Ollama的Web程序吧！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Java/">Java</category>
-      
-      <category domain="https://insectmk.cn/tags/LM/">LM</category>
-      
-      <category domain="https://insectmk.cn/tags/Ollama/">Ollama</category>
-      
-      <category domain="https://insectmk.cn/tags/Spring-AI/">Spring AI</category>
-      
-      
-      <comments>https://insectmk.cn/posts/129b7f4a/#disqus_thread</comments>
       
     </item>
     
