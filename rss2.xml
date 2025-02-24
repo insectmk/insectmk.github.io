@@ -15,8 +15,33 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Mon, 24 Feb 2025 07:44:45 GMT</pubDate>
+    <pubDate>Mon, 24 Feb 2025 09:30:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Website-Status：一个无需后端的网站监控页面！</title>
+      <link>https://insectmk.cn/posts/adaf4975/</link>
+      <guid>https://insectmk.cn/posts/adaf4975/</guid>
+      <pubDate>Mon, 24 Feb 2025 09:30:32 GMT</pubDate>
+      
+      <description>赶紧来试试这个无需后端的网站状态页吧！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/UptimeRobot/">UptimeRobot</category>
+      
+      <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99%E7%8A%B6%E6%80%81/">网站状态</category>
+      
+      <category domain="https://insectmk.cn/tags/Web/">Web</category>
+      
+      
+      <comments>https://insectmk.cn/posts/adaf4975/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>什么！原来小白也可以自己更换笔记本C面！</title>
@@ -374,11 +399,11 @@
       
       <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
       
+      <category domain="https://insectmk.cn/tags/UptimeRobot/">UptimeRobot</category>
+      
       <category domain="https://insectmk.cn/tags/CloudFlare/">CloudFlare</category>
       
       <category domain="https://insectmk.cn/tags/Worker/">Worker</category>
-      
-      <category domain="https://insectmk.cn/tags/UptimeRobot/">UptimeRobot</category>
       
       
       <comments>https://insectmk.cn/posts/236f327f/#disqus_thread</comments>
@@ -497,29 +522,6 @@
       
       <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/">个人网站</category>
       
-      
-    </item>
-    
-    <item>
-      <title>美化你的Github个人主页</title>
-      <link>https://insectmk.cn/posts/98f3f974/</link>
-      <guid>https://insectmk.cn/posts/98f3f974/</guid>
-      <pubDate>Tue, 30 Jul 2024 02:52:23 GMT</pubDate>
-      
-      <description>让你的Github主页变美！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Github/">Github</category>
-      
-      <category domain="https://insectmk.cn/tags/%E7%BE%8E%E5%8C%96/">美化</category>
-      
-      
-      <comments>https://insectmk.cn/posts/98f3f974/#disqus_thread</comments>
       
     </item>
     

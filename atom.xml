@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2025-02-24T07:44:45.000Z</updated>
+  <updated>2025-02-24T09:30:32.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Website-Status：一个无需后端的网站监控页面！</title>
+    <link href="https://insectmk.cn/posts/adaf4975/"/>
+    <id>https://insectmk.cn/posts/adaf4975/</id>
+    <published>2025-02-24T09:30:32.000Z</published>
+    <updated>2025-02-24T09:30:32.000Z</updated>
+    
+    
+    <summary type="html">赶紧来试试这个无需后端的网站状态页吧！</summary>
+    
+    
+    
+    <category term="项目" scheme="https://insectmk.cn/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="UptimeRobot" scheme="https://insectmk.cn/tags/UptimeRobot/"/>
+    
+    <category term="网站状态" scheme="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99%E7%8A%B6%E6%80%81/"/>
+    
+    <category term="Web" scheme="https://insectmk.cn/tags/Web/"/>
+    
+  </entry>
   
   <entry>
     <title>什么！原来小白也可以自己更换笔记本C面！</title>
@@ -349,11 +372,11 @@
     
     <category term="网站" scheme="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/"/>
     
+    <category term="UptimeRobot" scheme="https://insectmk.cn/tags/UptimeRobot/"/>
+    
     <category term="CloudFlare" scheme="https://insectmk.cn/tags/CloudFlare/"/>
     
     <category term="Worker" scheme="https://insectmk.cn/tags/Worker/"/>
-    
-    <category term="UptimeRobot" scheme="https://insectmk.cn/tags/UptimeRobot/"/>
     
   </entry>
   
@@ -461,27 +484,6 @@
     
     
     <category term="个人网站" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>美化你的Github个人主页</title>
-    <link href="https://insectmk.cn/posts/98f3f974/"/>
-    <id>https://insectmk.cn/posts/98f3f974/</id>
-    <published>2024-07-30T02:52:23.000Z</published>
-    <updated>2024-08-05T02:52:23.000Z</updated>
-    
-    
-    <summary type="html">让你的Github主页变美！</summary>
-    
-    
-    
-    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Github" scheme="https://insectmk.cn/tags/Github/"/>
-    
-    <category term="美化" scheme="https://insectmk.cn/tags/%E7%BE%8E%E5%8C%96/"/>
     
   </entry>
   
