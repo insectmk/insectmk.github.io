@@ -15,8 +15,31 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Mon, 17 Feb 2025 08:52:00 GMT</pubDate>
+    <pubDate>Mon, 24 Feb 2025 07:44:45 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>什么！原来小白也可以自己更换笔记本C面！</title>
+      <link>https://insectmk.cn/posts/6ed5bf53/</link>
+      <guid>https://insectmk.cn/posts/6ed5bf53/</guid>
+      <pubDate>Mon, 24 Feb 2025 07:44:45 GMT</pubDate>
+      
+      <description>什么？花费100块获得了一个新笔记本？老爹气坏了！！！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%8A%98%E8%85%BE/">折腾</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E7%AC%94%E8%AE%B0%E6%9C%AC/">笔记本</category>
+      
+      <category domain="https://insectmk.cn/tags/%E7%BB%B4%E4%BF%AE/">维修</category>
+      
+      
+      <comments>https://insectmk.cn/posts/6ed5bf53/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Head First 设计模式（一）</title>
@@ -497,33 +520,6 @@
       
       
       <comments>https://insectmk.cn/posts/98f3f974/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>我的Hexo博客多主题同时部署的实现思路（Butterfly+安知鱼）</title>
-      <link>https://insectmk.cn/posts/10d64ca8/</link>
-      <guid>https://insectmk.cn/posts/10d64ca8/</guid>
-      <pubDate>Tue, 30 Jul 2024 01:30:07 GMT</pubDate>
-      
-      <description>想让你的Hexo博客也支持多主题吗？快来看看这篇文章吧！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
-      <category domain="https://insectmk.cn/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/">安知鱼</category>
-      
-      
-      <comments>https://insectmk.cn/posts/10d64ca8/#disqus_thread</comments>
       
     </item>
     
