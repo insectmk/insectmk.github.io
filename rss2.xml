@@ -15,8 +15,31 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Mon, 24 Feb 2025 09:30:32 GMT</pubDate>
+    <pubDate>Tue, 25 Feb 2025 06:01:02 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Git-Cliff：一个高度可定制的变更日志生成器</title>
+      <link>https://insectmk.cn/posts/e92d1abc/</link>
+      <guid>https://insectmk.cn/posts/e92d1abc/</guid>
+      <pubDate>Tue, 25 Feb 2025 06:01:02 GMT</pubDate>
+      
+      <description>想要自动生成封面这样的变更内容Markdown文档吗？点进来看看吧！！！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Git/">Git</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
+      
+      
+      <comments>https://insectmk.cn/posts/e92d1abc/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Website-Status：一个无需后端的网站监控页面！</title>
@@ -503,25 +526,6 @@
       
       
       <comments>https://insectmk.cn/posts/1798af24/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>网站更新日志（2024/08/26~）</title>
-      <link>https://insectmk.cn/posts/17241f42/</link>
-      <guid>https://insectmk.cn/posts/17241f42/</guid>
-      <pubDate>Mon, 26 Aug 2024 04:25:05 GMT</pubDate>
-      
-      <description>记录服务器/网站的更新与维护</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%BF%97/">日志</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/">个人网站</category>
-      
       
     </item>
     

@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2025-02-24T09:30:32.000Z</updated>
+  <updated>2025-02-25T06:01:02.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git-Cliff：一个高度可定制的变更日志生成器</title>
+    <link href="https://insectmk.cn/posts/e92d1abc/"/>
+    <id>https://insectmk.cn/posts/e92d1abc/</id>
+    <published>2025-02-25T06:01:02.000Z</published>
+    <updated>2025-02-25T06:01:02.000Z</updated>
+    
+    
+    <summary type="html">想要自动生成封面这样的变更内容Markdown文档吗？点进来看看吧！！！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Git" scheme="https://insectmk.cn/tags/Git/"/>
+    
+    <category term="开发工具" scheme="https://insectmk.cn/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>Website-Status：一个无需后端的网站监控页面！</title>
@@ -465,25 +486,6 @@
     <category term="MySQL" scheme="https://insectmk.cn/tags/MySQL/"/>
     
     <category term="脚本" scheme="https://insectmk.cn/tags/%E8%84%9A%E6%9C%AC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网站更新日志（2024/08/26~）</title>
-    <link href="https://insectmk.cn/posts/17241f42/"/>
-    <id>https://insectmk.cn/posts/17241f42/</id>
-    <published>2024-08-26T04:25:05.000Z</published>
-    <updated>2025-02-24T07:38:05.000Z</updated>
-    
-    
-    <summary type="html">记录服务器/网站的更新与维护</summary>
-    
-    
-    
-    <category term="日志" scheme="https://insectmk.cn/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="个人网站" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
