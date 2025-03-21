@@ -15,8 +15,31 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Tue, 25 Feb 2025 06:01:02 GMT</pubDate>
+    <pubDate>Fri, 21 Mar 2025 08:31:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用JRebel让你的IDEA支持热部署</title>
+      <link>https://insectmk.cn/posts/e225aae0/</link>
+      <guid>https://insectmk.cn/posts/e225aae0/</guid>
+      <pubDate>Fri, 21 Mar 2025 08:31:58 GMT</pubDate>
+      
+      <description>最新又开始折腾Java项目了，更改代码后老是重启太耗费时间了，要是能像前端开发一样，能边改边更新就好了。</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
+      
+      <category domain="https://insectmk.cn/tags/IDEA%E6%8F%92%E4%BB%B6/">IDEA插件</category>
+      
+      
+      <comments>https://insectmk.cn/posts/e225aae0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Git-Cliff：一个高度可定制的变更日志生成器</title>
@@ -503,29 +526,6 @@
       
       
       <comments>https://insectmk.cn/posts/a1a6577e/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>如何编写MySQL升级脚本</title>
-      <link>https://insectmk.cn/posts/1798af24/</link>
-      <guid>https://insectmk.cn/posts/1798af24/</guid>
-      <pubDate>Fri, 25 Oct 2024 07:31:09 GMT</pubDate>
-      
-      <description>还在为数据库维护升级而头痛吗？来看看这篇MySQL升级脚本指南吧！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/">知识</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/MySQL/">MySQL</category>
-      
-      <category domain="https://insectmk.cn/tags/%E8%84%9A%E6%9C%AC/">脚本</category>
-      
-      
-      <comments>https://insectmk.cn/posts/1798af24/#disqus_thread</comments>
       
     </item>
     
