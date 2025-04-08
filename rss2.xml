@@ -15,8 +15,39 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Fri, 21 Mar 2025 08:31:58 GMT</pubDate>
+    <pubDate>Tue, 08 Apr 2025 02:01:57 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>解决Nginx部署Vue项目出现404</title>
+      <link>https://insectmk.cn/posts/782c9360/</link>
+      <guid>https://insectmk.cn/posts/782c9360/</guid>
+      <pubDate>Tue, 08 Apr 2025 02:01:57 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E7%A8%8B%E5%BA%8F%E9%85%8D%E7%BD%AE/">程序配置</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Vue/">Vue</category>
+      
+      <category domain="https://insectmk.cn/tags/Nginx/">Nginx</category>
+      
+      <category domain="https://insectmk.cn/tags/%E9%83%A8%E7%BD%B2/">部署</category>
+      
+      
+      <comments>https://insectmk.cn/posts/782c9360/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用JRebel让你的IDEA支持热部署</title>
@@ -499,33 +530,6 @@
       
       
       <comments>https://insectmk.cn/posts/f26a952d/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>基于uptime-status搭建自己的网站状态页</title>
-      <link>https://insectmk.cn/posts/a1a6577e/</link>
-      <guid>https://insectmk.cn/posts/a1a6577e/</guid>
-      <pubDate>Thu, 31 Oct 2024 06:24:41 GMT</pubDate>
-      
-      <description>对于网站状态监控一直用的是uptime-status，一个开源的Github项目，但是最近它的CloudFlare代理出问题了，所以打算使用自己的代理</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
-      
-      <category domain="https://insectmk.cn/tags/Uptime/">Uptime</category>
-      
-      <category domain="https://insectmk.cn/tags/CloudFlare/">CloudFlare</category>
-      
-      <category domain="https://insectmk.cn/tags/Worker/">Worker</category>
-      
-      
-      <comments>https://insectmk.cn/posts/a1a6577e/#disqus_thread</comments>
       
     </item>
     
