@@ -15,8 +15,70 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Tue, 08 Apr 2025 02:01:57 GMT</pubDate>
+    <pubDate>Tue, 20 May 2025 07:29:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何使用1Panel+MaxKB搭建一个智能助手</title>
+      <link>https://insectmk.cn/posts/df6809e8/</link>
+      <guid>https://insectmk.cn/posts/df6809e8/</guid>
+      <pubDate>Tue, 20 May 2025 07:29:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近在&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/1Panel/">1Panel</category>
+      
+      <category domain="https://insectmk.cn/tags/MaxKB/">MaxKB</category>
+      
+      <category domain="https://insectmk.cn/tags/AI/">AI</category>
+      
+      <category domain="https://insectmk.cn/tags/%E5%AE%A2%E6%9C%8D/">客服</category>
+      
+      
+      <comments>https://insectmk.cn/posts/df6809e8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>基于1Panel的服务器迁移</title>
+      <link>https://insectmk.cn/posts/3bd27d88/</link>
+      <guid>https://insectmk.cn/posts/3bd27d88/</guid>
+      <pubDate>Fri, 09 May 2025 12:40:52 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最新发现一个非常划算的&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/1Panel/">1Panel</category>
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BB/">服务器迁移</category>
+      
+      
+      <comments>https://insectmk.cn/posts/3bd27d88/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>解决Nginx部署Vue项目出现404</title>
@@ -484,52 +546,6 @@
       
       
       <comments>https://insectmk.cn/posts/236f327f/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>让你的Minecraft服务器同时支持Java版和基岩版</title>
-      <link>https://insectmk.cn/posts/8f850806/</link>
-      <guid>https://insectmk.cn/posts/8f850806/</guid>
-      <pubDate>Fri, 08 Nov 2024 12:03:08 GMT</pubDate>
-      
-      <description>搭建一个适合老年人体质的服务器真的太难了！想让你和你的朋友能随时随机无门槛游玩你的服务器吗？快来尝试下搭建一个Java基岩互通&amp;插件版服务器吧！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
-      
-      
-      <comments>https://insectmk.cn/posts/8f850806/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用自定义CSS美化你的Butterfly博客！</title>
-      <link>https://insectmk.cn/posts/f26a952d/</link>
-      <guid>https://insectmk.cn/posts/f26a952d/</guid>
-      <pubDate>Fri, 08 Nov 2024 08:38:42 GMT</pubDate>
-      
-      <description>还在担心你的博客太大众化了吗？来看看这篇文章吧！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
-      
-      <comments>https://insectmk.cn/posts/f26a952d/#disqus_thread</comments>
       
     </item>
     
