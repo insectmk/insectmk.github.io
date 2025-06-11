@@ -15,8 +15,39 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Thu, 05 Jun 2025 02:28:44 GMT</pubDate>
+    <pubDate>Wed, 11 Jun 2025 12:00:07 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>HBuilderX怎么这么难用？来试试WebStorm</title>
+      <link>https://insectmk.cn/posts/e664e6fc/</link>
+      <guid>https://insectmk.cn/posts/e664e6fc/</guid>
+      <pubDate>Wed, 11 Jun 2025 12:00:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近在学习&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/WebStorm/">WebStorm</category>
+      
+      <category domain="https://insectmk.cn/tags/HBuilderX/">HBuilderX</category>
+      
+      <category domain="https://insectmk.cn/tags/Uniapp/">Uniapp</category>
+      
+      
+      <comments>https://insectmk.cn/posts/e664e6fc/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>绿联NAS搭建Tailscale，实现安全远程访问绿联NAS中的Docker容器</title>
@@ -529,29 +560,6 @@
       
       
       <comments>https://insectmk.cn/posts/93b8ead1/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>时隔两年，我还是选择了联想拯救者Y7000P</title>
-      <link>https://insectmk.cn/posts/a79c3396/</link>
-      <guid>https://insectmk.cn/posts/a79c3396/</guid>
-      <pubDate>Fri, 22 Nov 2024 01:21:49 GMT</pubDate>
-      
-      <description>简单记录下更换笔记本后，我做了哪些事吧，作为下次更换设备的参考，嘻嘻~~</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%B8%B8/">日常</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E7%AC%94%E8%AE%B0%E6%9C%AC/">笔记本</category>
-      
-      <category domain="https://insectmk.cn/tags/%E6%96%B0%E8%AE%BE%E5%A4%87/">新设备</category>
-      
-      
-      <comments>https://insectmk.cn/posts/a79c3396/#disqus_thread</comments>
       
     </item>
     
