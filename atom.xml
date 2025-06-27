@@ -17,7 +17,7 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>将博客评论从Waline迁移到Artalk</title>
+    <title>博客评论从Waline迁移到Artalk</title>
     <link href="https://insectmk.cn/posts/70991a47/"/>
     <id>https://insectmk.cn/posts/70991a47/</id>
     <published>2025-06-26T07:54:05.000Z</published>
@@ -28,7 +28,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;h2 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h2&gt;&lt;h3</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;好久没维护博客了，最近收到小伙伴评论，点进去看，我靠，这评论区怎么加载这么慢？感觉Waline +</summary>
         
       
     
