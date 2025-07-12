@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2025-06-26T07:54:05.000Z</updated>
+  <updated>2025-07-12T07:57:08.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>让你的Minecraft服务器同时支持Java版和基岩版（二）</title>
+    <link href="https://insectmk.cn/posts/a2963181/"/>
+    <id>https://insectmk.cn/posts/a2963181/</id>
+    <published>2025-07-12T07:57:08.000Z</published>
+    <updated>2025-07-12T07:57:08.000Z</updated>
+    
+    
+    <summary type="html">搭建一个适合老年人体质的服务器真的太难了！想让你和你的朋友能随时随机无门槛游玩你的服务器吗？快来尝试下搭建一个Java基岩互通&amp;插件版服务器吧！</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="我的世界" scheme="https://insectmk.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>博客评论从Waline迁移到Artalk</title>
@@ -503,27 +522,6 @@
     <category term="个人博客" scheme="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="AI摘要" scheme="https://insectmk.cn/tags/AI%E6%91%98%E8%A6%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的世界互通服务器日志（2024/12/05~）</title>
-    <link href="https://insectmk.cn/posts/3ea41873/"/>
-    <id>https://insectmk.cn/posts/3ea41873/</id>
-    <published>2024-12-05T03:03:08.000Z</published>
-    <updated>2025-07-11T09:41:08.000Z</updated>
-    
-    
-    <summary type="html">我的世界互通服务器日志</summary>
-    
-    
-    
-    <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
-    <category term="我的世界" scheme="https://insectmk.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   

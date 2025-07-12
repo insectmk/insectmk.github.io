@@ -15,8 +15,29 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Thu, 26 Jun 2025 07:54:05 GMT</pubDate>
+    <pubDate>Sat, 12 Jul 2025 07:57:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>让你的Minecraft服务器同时支持Java版和基岩版（二）</title>
+      <link>https://insectmk.cn/posts/a2963181/</link>
+      <guid>https://insectmk.cn/posts/a2963181/</guid>
+      <pubDate>Sat, 12 Jul 2025 07:57:08 GMT</pubDate>
+      
+      <description>搭建一个适合老年人体质的服务器真的太难了！想让你和你的朋友能随时随机无门槛游玩你的服务器吗？快来尝试下搭建一个Java基岩互通&amp;插件版服务器吧！</description>
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      
+      
+      <comments>https://insectmk.cn/posts/a2963181/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>博客评论从Waline迁移到Artalk</title>
@@ -543,27 +564,6 @@
       
       
       <comments>https://insectmk.cn/posts/bd1d7526/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>我的世界互通服务器日志（2024/12/05~）</title>
-      <link>https://insectmk.cn/posts/3ea41873/</link>
-      <guid>https://insectmk.cn/posts/3ea41873/</guid>
-      <pubDate>Thu, 05 Dec 2024 03:03:08 GMT</pubDate>
-      
-      <description>我的世界互通服务器日志</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
-      <category domain="https://insectmk.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
-      
       
     </item>
     
