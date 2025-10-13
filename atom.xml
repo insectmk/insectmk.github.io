@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2025-10-11T06:49:32.000Z</updated>
+  <updated>2025-10-13T05:51:17.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用绿联NAS备份服务器数据</title>
+    <link href="https://insectmk.cn/posts/2993ae7e/"/>
+    <id>https://insectmk.cn/posts/2993ae7e/</id>
+    <published>2025-10-13T05:51:17.000Z</published>
+    <updated>2025-10-13T05:51:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;前段时间迁移了自己的服务器到&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
+    
+    <category term="1Panel" scheme="https://insectmk.cn/tags/1Panel/"/>
+    
+    <category term="绿联云" scheme="https://insectmk.cn/tags/%E7%BB%BF%E8%81%94%E4%BA%91/"/>
+    
+    <category term="NAS" scheme="https://insectmk.cn/tags/NAS/"/>
+    
+    <category term="Shell" scheme="https://insectmk.cn/tags/Shell/"/>
+    
+  </entry>
   
   <entry>
     <title>绿联NAS配置FrpC内网穿透</title>
@@ -53,14 +86,14 @@
     <link href="https://insectmk.cn/posts/d37bd61a/"/>
     <id>https://insectmk.cn/posts/d37bd61a/</id>
     <published>2025-10-11T06:06:25.000Z</published>
-    <updated>2025-10-13T03:40:25.000Z</updated>
+    <updated>2025-10-13T06:08:25.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;前段时间迁移了自己的服务器到&lt;a</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -119,9 +152,9 @@
     <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Waline" scheme="https://insectmk.cn/tags/Waline/"/>
-    
     <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
+    
+    <category term="Waline" scheme="https://insectmk.cn/tags/Waline/"/>
     
     <category term="Artalk" scheme="https://insectmk.cn/tags/Artalk/"/>
     
@@ -518,27 +551,6 @@
     <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     <category term="腾讯云" scheme="https://insectmk.cn/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>在SQL Server中编写SQL脚本</title>
-    <link href="https://insectmk.cn/posts/90fb9b17/"/>
-    <id>https://insectmk.cn/posts/90fb9b17/</id>
-    <published>2025-01-29T02:10:53.000Z</published>
-    <updated>2025-01-29T02:10:53.000Z</updated>
-    
-    
-    <summary type="html">入职半年了，学到不少东西，尤其是SQL Server的应用功力增长了不少，开始了解到SQL脚本的使用场景与编写技巧，在此记录。</summary>
-    
-    
-    
-    <category term="知识" scheme="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/"/>
-    
-    
-    <category term="SQL" scheme="https://insectmk.cn/tags/SQL/"/>
-    
-    <category term="SQL Server" scheme="https://insectmk.cn/tags/SQL-Server/"/>
     
   </entry>
   

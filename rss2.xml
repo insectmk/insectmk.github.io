@@ -15,8 +15,43 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Sat, 11 Oct 2025 06:49:32 GMT</pubDate>
+    <pubDate>Mon, 13 Oct 2025 05:51:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用绿联NAS备份服务器数据</title>
+      <link>https://insectmk.cn/posts/2993ae7e/</link>
+      <guid>https://insectmk.cn/posts/2993ae7e/</guid>
+      <pubDate>Mon, 13 Oct 2025 05:51:17 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;前段时间迁移了自己的服务器到&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
+      
+      <category domain="https://insectmk.cn/tags/1Panel/">1Panel</category>
+      
+      <category domain="https://insectmk.cn/tags/%E7%BB%BF%E8%81%94%E4%BA%91/">绿联云</category>
+      
+      <category domain="https://insectmk.cn/tags/NAS/">NAS</category>
+      
+      <category domain="https://insectmk.cn/tags/Shell/">Shell</category>
+      
+      
+      <comments>https://insectmk.cn/posts/2993ae7e/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>绿联NAS配置FrpC内网穿透</title>
@@ -62,7 +97,7 @@
         
           
           
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;前段时间迁移了自己的服务器到&lt;a</description>
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
           
         
       
@@ -126,9 +161,9 @@
       <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://insectmk.cn/tags/Waline/">Waline</category>
-      
       <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
+      
+      <category domain="https://insectmk.cn/tags/Waline/">Waline</category>
       
       <category domain="https://insectmk.cn/tags/Artalk/">Artalk</category>
       
@@ -558,29 +593,6 @@
       
       
       <comments>https://insectmk.cn/posts/9c4c8fb5/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>在SQL Server中编写SQL脚本</title>
-      <link>https://insectmk.cn/posts/90fb9b17/</link>
-      <guid>https://insectmk.cn/posts/90fb9b17/</guid>
-      <pubDate>Wed, 29 Jan 2025 02:10:53 GMT</pubDate>
-      
-      <description>入职半年了，学到不少东西，尤其是SQL Server的应用功力增长了不少，开始了解到SQL脚本的使用场景与编写技巧，在此记录。</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E7%9F%A5%E8%AF%86/">知识</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/SQL/">SQL</category>
-      
-      <category domain="https://insectmk.cn/tags/SQL-Server/">SQL Server</category>
-      
-      
-      <comments>https://insectmk.cn/posts/90fb9b17/#disqus_thread</comments>
       
     </item>
     
