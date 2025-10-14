@@ -15,8 +15,38 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Mon, 13 Oct 2025 05:51:17 GMT</pubDate>
+    <pubDate>Tue, 14 Oct 2025 03:30:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>IDEA常用快捷键</title>
+      <link>https://insectmk.cn/posts/566321e7/</link>
+      <guid>https://insectmk.cn/posts/566321e7/</guid>
+      <pubDate>Tue, 14 Oct 2025 03:30:22 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近女朋友在学习Java，刚接触到IDEA这个软件，在这里只记录一下自己常用的快捷键，以方便查阅。&lt;/p&gt;
+&lt;h2 id=&quot;快捷键&quot;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%8A%80%E5%B7%A7/">技巧</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/">快捷键</category>
+      
+      <category domain="https://insectmk.cn/tags/IDEA/">IDEA</category>
+      
+      
+      <comments>https://insectmk.cn/posts/566321e7/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用绿联NAS备份服务器数据</title>
@@ -161,9 +191,9 @@
       <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
-      
       <category domain="https://insectmk.cn/tags/Waline/">Waline</category>
+      
+      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
       
       <category domain="https://insectmk.cn/tags/Artalk/">Artalk</category>
       
@@ -570,29 +600,6 @@
       
       
       <comments>https://insectmk.cn/posts/9d35ac13/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>腾讯云轻量级服务器：入门型转为锐驰型高峰值带宽</title>
-      <link>https://insectmk.cn/posts/9c4c8fb5/</link>
-      <guid>https://insectmk.cn/posts/9c4c8fb5/</guid>
-      <pubDate>Wed, 29 Jan 2025 02:37:31 GMT</pubDate>
-      
-      <description>腾讯云刚出的高峰值带宽服务器-轻量云锐驰型，对需要内网穿透的个人玩家来说真的是一个福音啊！立马就给他换上了！</description>
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%97%A5%E5%B8%B8/">日常</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
-      
-      <category domain="https://insectmk.cn/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/">腾讯云</category>
-      
-      
-      <comments>https://insectmk.cn/posts/9c4c8fb5/#disqus_thread</comments>
       
     </item>
     
