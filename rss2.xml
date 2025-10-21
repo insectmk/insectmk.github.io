@@ -15,8 +15,39 @@
     <atom:link href="https://insectmk.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天都要微笑</description>
-    <pubDate>Mon, 20 Oct 2025 07:49:21 GMT</pubDate>
+    <pubDate>Tue, 21 Oct 2025 09:37:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用Docker搭建星露谷服务端</title>
+      <link>https://insectmk.cn/posts/b01f80ee/</link>
+      <guid>https://insectmk.cn/posts/b01f80ee/</guid>
+      <pubDate>Mon, 20 Oct 2025 13:50:32 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;前两天写了一篇&lt;a href=&quot;/posts/b01f80ee/&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
+      
+      <category domain="https://insectmk.cn/tags/%E6%98%9F%E9%9C%B2%E8%B0%B7/">星露谷</category>
+      
+      
+      <comments>https://insectmk.cn/posts/b01f80ee/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用1Panel计划任务本地备份文件</title>
@@ -71,9 +102,9 @@
       <category domain="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
       
       
-      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
-      
       <category domain="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      <category domain="https://insectmk.cn/tags/Docker/">Docker</category>
       
       <category domain="https://insectmk.cn/tags/%E6%98%9F%E9%9C%B2%E8%B0%B7/">星露谷</category>
       
@@ -581,39 +612,6 @@
       
       
       <comments>https://insectmk.cn/posts/45228a45/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hexo-Butterfly主题的文章如何嵌入数学公式</title>
-      <link>https://insectmk.cn/posts/6a9930a0/</link>
-      <guid>https://insectmk.cn/posts/6a9930a0/</guid>
-      <pubDate>Sun, 02 Feb 2025 07:09:25 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://insectmk.cn/tags/Hexo/">Hexo</category>
-      
-      <category domain="https://insectmk.cn/tags/Butterfly/">Butterfly</category>
-      
-      <category domain="https://insectmk.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category>
-      
-      <category domain="https://insectmk.cn/tags/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/">数学公式</category>
-      
-      
-      <comments>https://insectmk.cn/posts/6a9930a0/#disqus_thread</comments>
       
     </item>
     
