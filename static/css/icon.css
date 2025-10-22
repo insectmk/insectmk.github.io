@@ -1,9 +1,9 @@
 /* 阿里巴巴图标库 */
 @font-face {
     font-family: "iconfont"; /* Project id 3795172 */
-    src: url('//at.alicdn.com/t/c/font_3795172_iyr7zlmemjq.woff2?t=1761124750868') format('woff2'),
-    url('//at.alicdn.com/t/c/font_3795172_iyr7zlmemjq.woff?t=1761124750868') format('woff'),
-    url('//at.alicdn.com/t/c/font_3795172_iyr7zlmemjq.ttf?t=1761124750868') format('truetype');
+    src: url('//at.alicdn.com/t/c/font_3795172_yj23liu49w.woff2?t=1761125350032') format('woff2'),
+    url('//at.alicdn.com/t/c/font_3795172_yj23liu49w.woff?t=1761125350032') format('woff'),
+    url('//at.alicdn.com/t/c/font_3795172_yj23liu49w.ttf?t=1761125350032') format('truetype');
 }
 
 .iconfont {
@@ -12,6 +12,10 @@
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Chicken:before {
+    content: "\e871";
 }
 
 .icon-chicken:before {
