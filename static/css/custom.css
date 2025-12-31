@@ -1,0 +1,53 @@
+/* 自定义样式-仿小康博客 */
+/*全局样式*/
+#content-inner/*全局颜色*/
+{
+    --light_bg_color: hsla(0, 0%, 100%, .6); /*日间背景颜色*/
+    --dark_bg_color: hsla(0, 0%, 7%, .8);/*夜间背景颜色*/
+    --light_page_color: hsla(0, 0%, 100%, .5);/*日间页面颜色*/
+    --dark_page_color: hsla(0, 0%, 7%, .8)/*夜间页面颜色*/
+}
+body/*全局盒子*/
+{
+    cursor: url('/static/cur/default.cur'), default;/*替换鼠标指针，变指针*/
+}
+a,/*各种功能性按钮*/
+button,
+img,
+#nav .site-page/*首页导航*/
+{
+    cursor: url('/static/cur/pointer.cur'), default;/*替换鼠标指针，变小手*/
+}
+/*日间样式*/
+[data-theme="light"] #recent-posts .recent-post-item,/*首页文章盒子*/
+[data-theme="light"] #aside-content .card-widget,/*侧边栏*/
+[data-theme="light"] #post,/*文章*/
+[data-theme="light"] #page,/*页面*/
+[data-theme="light"] .wl-panel,/*waline评论面板*/
+[data-theme="light"] #footer/*页脚*/
+{
+    background: var(--light_page_color); /*背景颜色*/
+}
+[data-theme="light"] body/*全局盒子-渐变背景*/
+{
+    background-size: 400% 400%;
+    height: 100vh;
+    background: linear-gradient(-45deg, #fbede8, #b4cef7, #b7f9b8, #f6ced8) fixed;
+}
+/*夜间样式*/
+[data-theme="dark"] #recent-posts .recent-post-item,/*首页文章盒子*/
+[data-theme="dark"] #aside-content .card-widget,/*侧边栏盒子*/
+[data-theme="dark"] #post,/*文章*/
+[data-theme="dark"] #page,/*页面*/
+[data-theme="dark"] .wl-panel,/*Waline评论面板*/
+[data-theme="dark"] #footer/*页脚*/
+{
+    background: var(--dark_page_color); /*背景颜色*/
+}
+[data-theme="dark"] body/*全局盒子-渐变背景*/
+{
+    background-size: 400% 400%;
+    height: 100vh;
+    background: linear-gradient(-45deg, #6f1b01, #113878, #016801, #540818) fixed;
+}
+
