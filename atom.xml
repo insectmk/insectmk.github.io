@@ -303,11 +303,11 @@
     
     <category term="1Panel" scheme="https://insectmk.top/tags/1Panel/"/>
     
+    <category term="Shell" scheme="https://insectmk.top/tags/Shell/"/>
+    
     <category term="绿联云" scheme="https://insectmk.top/tags/%E7%BB%BF%E8%81%94%E4%BA%91/"/>
     
     <category term="NAS" scheme="https://insectmk.top/tags/NAS/"/>
-    
-    <category term="Shell" scheme="https://insectmk.top/tags/Shell/"/>
     
   </entry>
   
@@ -414,9 +414,9 @@
     <category term="教程" scheme="https://insectmk.top/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Docker" scheme="https://insectmk.top/tags/Docker/"/>
-    
     <category term="Waline" scheme="https://insectmk.top/tags/Waline/"/>
+    
+    <category term="Docker" scheme="https://insectmk.top/tags/Docker/"/>
     
     <category term="Artalk" scheme="https://insectmk.top/tags/Artalk/"/>
     
