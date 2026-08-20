@@ -68,13 +68,13 @@
     <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="异地组网" scheme="https://insectmk.cn/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/"/>
-    
     <category term="绿联云" scheme="https://insectmk.cn/tags/%E7%BB%BF%E8%81%94%E4%BA%91/"/>
     
     <category term="NAS" scheme="https://insectmk.cn/tags/NAS/"/>
     
     <category term="节点小宝" scheme="https://insectmk.cn/tags/%E8%8A%82%E7%82%B9%E5%B0%8F%E5%AE%9D/"/>
+    
+    <category term="异地组网" scheme="https://insectmk.cn/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/"/>
     
   </entry>
   
@@ -213,9 +213,9 @@
     <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
-    
     <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
     
     <category term="星露谷" scheme="https://insectmk.cn/tags/%E6%98%9F%E9%9C%B2%E8%B0%B7/"/>
     
@@ -273,9 +273,9 @@
     <category term="游戏" scheme="https://insectmk.cn/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
-    
     <category term="服务器" scheme="https://insectmk.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
     
     <category term="星露谷" scheme="https://insectmk.cn/tags/%E6%98%9F%E9%9C%B2%E8%B0%B7/"/>
     
@@ -445,9 +445,9 @@
     <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
-    
     <category term="Waline" scheme="https://insectmk.cn/tags/Waline/"/>
+    
+    <category term="Docker" scheme="https://insectmk.cn/tags/Docker/"/>
     
     <category term="Artalk" scheme="https://insectmk.cn/tags/Artalk/"/>
     
