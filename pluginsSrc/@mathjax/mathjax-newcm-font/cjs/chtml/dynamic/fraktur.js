@@ -59,8 +59,8 @@ chtml_js_1.MathJaxNewcmFont.dynamicSetup('', 'fraktur', (0, DynamicFonts_js_1.Ad
             0x1D537: [.472, .215, .39, { sk: -.01 }]
         },
         'fraktur': {
-            0x131: [.477, .023, .279, { sk: -.019 }],
-            0x237: [.476, .203, .28]
+            0x131: [.477, .023, .279, { sk: .272 }],
+            0x237: [.476, .203, .28, { sk: .177 }]
         }
     },
     'FB': {
@@ -119,8 +119,8 @@ chtml_js_1.MathJaxNewcmFont.dynamicSetup('', 'fraktur', (0, DynamicFonts_js_1.Ad
             0x1D59F: [.472, .215, .461]
         },
         'bold-fraktur': {
-            0x131: [.478, .026, .331, { sk: -.025 }],
-            0x237: [.483, .207, .331, { sk: -.015 }]
+            0x131: [.478, .026, .331, { sk: .301 }],
+            0x237: [.483, .207, .331, { sk: .476 }]
         }
     }
 }, 'NCM'));

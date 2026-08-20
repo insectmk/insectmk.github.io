@@ -99,13 +99,13 @@ export declare class MathJaxNewcmFont extends Base {
         '.NCM-EM': {
             'font-family': string;
         };
-        '.NCM-Be': {
+        '.NCM-B-a': {
             'font-family': string;
         };
         '.NCM-U': {
             'font-family': string;
         };
-        '.NCM-Ue': {
+        '.NCM-U-a': {
             'font-family': string;
         };
         '.NCM-S': {
@@ -236,7 +236,7 @@ export declare class MathJaxNewcmFont extends Base {
             'font-family': string;
             src: string;
         };
-        '@font-face /* MJX-NCM-Be */': {
+        '@font-face /* MJX-NCM-B-a */': {
             'font-family': string;
             src: string;
         };
@@ -244,7 +244,7 @@ export declare class MathJaxNewcmFont extends Base {
             'font-family': string;
             src: string;
         };
-        '@font-face /* MJX-NCM-Ue */': {
+        '@font-face /* MJX-NCM-U-a */': {
             'font-family': string;
             src: string;
         };

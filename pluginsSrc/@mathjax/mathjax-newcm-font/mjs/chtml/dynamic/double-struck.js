@@ -77,8 +77,8 @@ MathJaxNewcmFont.dynamicSetup('', 'double-struck', AddFontIds({
             0x1D7E1: [.666, .022, .556]
         },
         'double-struck': {
-            0x131: [.431, 0, .279],
-            0x237: [.431, .216, .389, { sk: .054 }]
+            0x131: [.431, 0, .279, { sk: .201 }],
+            0x237: [.431, .216, .389, { sk: .181 }]
         }
     }
 }, 'NCM'));
