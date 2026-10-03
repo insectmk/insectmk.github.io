@@ -1,0 +1,154 @@
+/* 阿里巴巴图标库 */
+@font-face {
+    font-family: "iconfont"; /* Project id 3795172 */
+    src: url('//at.alicdn.com/t/c/font_3795172_yj23liu49w.woff2?t=1761125350032') format('woff2'),
+    url('//at.alicdn.com/t/c/font_3795172_yj23liu49w.woff?t=1761125350032') format('woff'),
+    url('//at.alicdn.com/t/c/font_3795172_yj23liu49w.ttf?t=1761125350032') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Chicken:before {
+    content: "\e871";
+}
+
+.icon-chicken:before {
+    content: "\e610";
+}
+
+.icon-website-with-different-sections:before {
+    content: "\e60f";
+}
+
+.icon-compass:before {
+    content: "\e68b";
+}
+
+.icon-minecraft:before {
+    content: "\e7f9";
+}
+
+.icon-icons-left__dead_:before {
+    content: "\f1ad";
+}
+
+.icon-server:before {
+    content: "\f0ac";
+}
+
+.icon-rss-atom:before {
+    content: "\e62b";
+    color: #3E2AD1;
+}
+
+
+.icon-rss:before {
+    content: "\e62b";
+    color: #EE802F;
+}
+
+.icon-musicfill:before {
+    content: "\e795";
+}
+
+.icon-note:before {
+    content: "\e64f";
+}
+
+.icon-bars:before {
+    content: "\e601";
+}
+
+.icon-tags:before {
+    content: "\e715";
+}
+
+.icon-folder-open:before {
+    content: "\e696";
+}
+
+.icon-gamepad:before {
+    content: "\e69d";
+}
+
+.icon-clipboard:before {
+    content: "\e602";
+}
+
+.icon-archive:before {
+    content: "\e673";
+}
+
+.icon-comments:before {
+    content: "\e600";
+}
+
+.icon-desktop:before {
+    content: "\e603";
+}
+
+.icon-flask:before {
+    content: "\e604";
+}
+
+.icon-hand-peace:before {
+    content: "\e605";
+}
+
+.icon-heartbeat:before {
+    content: "\e606";
+}
+
+.icon-home:before {
+    content: "\e608";
+}
+
+.icon-id-card:before {
+    content: "\e609";
+}
+
+.icon-images:before {
+    content: "\e60a";
+}
+
+.icon-link:before {
+    content: "\e60b";
+}
+
+.icon-paper-plane:before {
+    content: "\e60e";
+}
+
+.icon-film_fill:before {
+    content: "\e70f";
+}
+
+.icon-book-open:before {
+    content: "\e8a3";
+}
+
+.icon-youxiang-:before {
+    content: "\e6af";
+    color: #1078D4;
+}
+
+.icon-qq:before {
+    content: "\e60d";
+    color: rgb(16, 164, 255);
+}
+
+.icon-wechat:before {
+    content: "\e607";
+    color: #00bf03;
+}
+
+.icon-gitee:before {
+    content: "\e60c";
+    color: #D90315;
+}
