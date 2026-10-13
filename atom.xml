@@ -6,7 +6,7 @@
   <link href="https://insectmk.cn/atom.xml" rel="self"/>
   
   <link href="https://insectmk.cn/"/>
-  <updated>2026-10-04T04:40:48.000Z</updated>
+  <updated>2026-10-13T09:45:42.000Z</updated>
   <id>https://insectmk.cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>求生之路2插件开发环境搭建</title>
+    <link href="https://insectmk.cn/posts/50a34091/"/>
+    <id>https://insectmk.cn/posts/50a34091/</id>
+    <published>2026-10-13T09:45:42.000Z</published>
+    <updated>2026-10-13T09:45:42.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="求生之路2" scheme="https://insectmk.cn/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/"/>
+    
+    <category term="SourceMod" scheme="https://insectmk.cn/tags/SourceMod/"/>
+    
+    <category term="插件" scheme="https://insectmk.cn/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+    <category term="环境搭建" scheme="https://insectmk.cn/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>使用1Panel+EasyTier搭建异地组网</title>
@@ -574,27 +605,6 @@
     <category term="Nginx" scheme="https://insectmk.cn/tags/Nginx/"/>
     
     <category term="部署" scheme="https://insectmk.cn/tags/%E9%83%A8%E7%BD%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用JRebel让你的IDEA支持热部署</title>
-    <link href="https://insectmk.cn/posts/e225aae0/"/>
-    <id>https://insectmk.cn/posts/e225aae0/</id>
-    <published>2025-03-21T08:31:58.000Z</published>
-    <updated>2025-03-21T08:31:58.000Z</updated>
-    
-    
-    <summary type="html">最新又开始折腾Java项目了，更改代码后老是重启太耗费时间了，要是能像前端开发一样，能边改边更新就好了。</summary>
-    
-    
-    
-    <category term="教程" scheme="https://insectmk.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="开发工具" scheme="https://insectmk.cn/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
-    
-    <category term="IDEA插件" scheme="https://insectmk.cn/tags/IDEA%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
